@@ -1,5 +1,7 @@
 |Source|Title|Summary|
 |---|---|---|
+|2511.20474v1|[Modular Deep Learning Framework for Assistive Perception: Gaze, Affect, and Speaker Identification](https://arxiv.org/abs/2511.20474v1)||
+|2511.19699v1|[A Layered Protocol Architecture for the Internet of Agents](https://arxiv.org/abs/2511.19699v1)||
 |2511.19246v1|[Neural Architecture Search for Quantum Autoencoders](https://arxiv.org/abs/2511.19246v1)||
 |2511.18405v1|[A Multimodal Conversational Agent for Tabular Data Analysis](https://arxiv.org/abs/2511.18405v1)||
 |2511.18314v1|[AnyExperts: On-Demand Expert Allocation for Multimodal Language Models with Mixture of Expert](https://arxiv.org/abs/2511.18314v1)||
