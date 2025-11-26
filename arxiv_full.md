@@ -1,5 +1,9 @@
 |Source|Title|Summary|
 |---|---|---|
+|2511.20470v1|[Efficient and Fast Generative-Based Singing Voice Separation using a Latent Diffusion Model](https://arxiv.org/abs/2511.20470v1)||
+|2511.20380v1|[Differentiable Attenuation Filters for Feedback Delay Networks](https://arxiv.org/abs/2511.20380v1)||
+|2511.19974v1|[Continual Audio Deepfake Detection via Universal Adversarial Perturbation](https://arxiv.org/abs/2511.19974v1)||
+|2511.19734v1|[Evaluating Objective Speech Quality Metrics for Neural Audio Codecs](https://arxiv.org/abs/2511.19734v1)||
 |2511.19403v1|[Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays](https://arxiv.org/abs/2511.19403v1)||
 |2511.19396v1|[Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments](https://arxiv.org/abs/2511.19396v1)||
 |2511.19342v1|[Explicit Tonal Tension Conditioning via Dual-Level Beam Search for Symbolic Music Generation](https://arxiv.org/abs/2511.19342v1)||
