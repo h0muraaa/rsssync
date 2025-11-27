@@ -1,5 +1,13 @@
 |Source|Title|Summary|
 |---|---|---|
+|2511.21313v1|[Acoustic neural networks: Identifying design principles and exploring physical feasibility](https://arxiv.org/abs/2511.21313v1)||
+|2511.21270v1|[Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale](https://arxiv.org/abs/2511.21270v1)||
+|2511.21247v1|[The Spheres Dataset: Multitrack Orchestral Recordings for Music Source Separation and Information Retrieval](https://arxiv.org/abs/2511.21247v1)||
+|2511.21222v1|[Evaluation of an ITD-to-ILD Transformation as a Method to Restore the Spatial Benefit in Speech Intelligibility in Hearing Impaired Listeners](https://arxiv.org/abs/2511.21222v1)||
+|2511.20974v1|[RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data](https://arxiv.org/abs/2511.20974v1)||
+|2511.20973v1|[Towards Audio Token Compression in Large Audio Language Models](https://arxiv.org/abs/2511.20973v1)||
+|2511.20972v1|[SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications](https://arxiv.org/abs/2511.20972v1)||
+|2511.20697v1|[Musical Score Understanding Benchmark: Evaluating Large Language Models' Comprehension of Complete Musical Scores](https://arxiv.org/abs/2511.20697v1)||
 |2511.20224v1|[DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation](https://arxiv.org/abs/2511.20224v1)||
 |2511.20107v1|[Mispronunciation Detection and Diagnosis Without Model Training: A Retrieval-Based Approach](https://arxiv.org/abs/2511.20107v1)||
 |2511.20006v1|[BERT-APC: A Reference-free Framework for Automatic Pitch Correction via Musical Context Inference](https://arxiv.org/abs/2511.20006v1)||
