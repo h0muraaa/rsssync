@@ -1,5 +1,8 @@
 |Source|Title|Summary|
 |---|---|---|
+|2511.23404v1|[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)||
+|2511.22863v1|[CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation](https://arxiv.org/abs/2511.22863v1)||
+|2511.22769v1|[Modeling Romanized Hindi and Bengali: Dataset Creation and Multilingual LLM Integration](https://arxiv.org/abs/2511.22769v1)||
 |2511.20534v1|[Bridging the Language Gap: Synthetic Voice Diversity via Latent Mixup for Equitable Speech Recognition](https://arxiv.org/abs/2511.20534v1)||
 |2511.19947v1|[Towards Edge General Intelligence: Knowledge Distillation for Mobile Agentic AI](https://arxiv.org/abs/2511.19947v1)||
 |2511.18632v1|[The Locally Deployable Virtual Doctor: LLM Based Human Interface for Automated Anamnesis and Database Conversion](https://arxiv.org/abs/2511.18632v1)||
