@@ -1,9 +1,16 @@
 |Source|Title|Summary|
 |---|---|---|
+|2511.23370v1|[Scaling HuBERT for African Languages: From Base to Large and XL](https://arxiv.org/abs/2511.23370v1)||
+|2511.22883v1|[FEANEL: A Benchmark for Fine-Grained Error Analysis in K-12 English Writing](https://arxiv.org/abs/2511.22883v1)||
+|2511.22826v1|[Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs](https://arxiv.org/abs/2511.22826v1)||
+|2511.22344v1|[Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](https://arxiv.org/abs/2511.22344v1)||
+|2511.22229v1|[VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task](https://arxiv.org/abs/2511.22229v1)||
+|2511.21760v1|[fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding](https://arxiv.org/abs/2511.21760v1)||
 |2511.21251v1|[AVFakeBench: A Comprehensive Audio-Video Forgery Detection Benchmark for AV-LMMs](https://arxiv.org/abs/2511.21251v1)||
 |2511.21194v1|[BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data](https://arxiv.org/abs/2511.21194v1)||
 |2511.20686v1|[AssurAI: Experience with Constructing Korean Socio-cultural Datasets to Discover Potential Risks of Generative AI](https://arxiv.org/abs/2511.20686v1)||
 |2511.20474v1|[Modular Deep Learning Framework for Assistive Perception: Gaze, Affect, and Speaker Identification](https://arxiv.org/abs/2511.20474v1)||
+|2511.19699v2|[A Layered Protocol Architecture for the Internet of Agents](https://arxiv.org/abs/2511.19699v2)||
 |2511.19699v1|[A Layered Protocol Architecture for the Internet of Agents](https://arxiv.org/abs/2511.19699v1)||
 |2511.19246v1|[Neural Architecture Search for Quantum Autoencoders](https://arxiv.org/abs/2511.19246v1)||
 |2511.18405v1|[A Multimodal Conversational Agent for Tabular Data Analysis](https://arxiv.org/abs/2511.18405v1)||
@@ -12,6 +19,7 @@
 |2511.17943v1|[SciEducator: Scientific Video Understanding and Educating via Deming-Cycle Multi-Agent System](https://arxiv.org/abs/2511.17943v1)||
 |2511.17854v1|[A superpersuasive autonomous policy debating system](https://arxiv.org/abs/2511.17854v1)||
 |2511.17666v1|[Evaluating Adversarial Vulnerabilities in Modern Large Language Models](https://arxiv.org/abs/2511.17666v1)||
+|2511.16901v2|[R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios](https://arxiv.org/abs/2511.16901v2)||
 |2511.16901v1|[R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios](https://arxiv.org/abs/2511.16901v1)||
 |2511.16660v2|[Cognitive Foundations for Reasoning and Their Manifestation in LLMs](https://arxiv.org/abs/2511.16660v2)||
 |2511.16660v1|[Cognitive Foundations for Reasoning and Their Manifestation in LLMs](https://arxiv.org/abs/2511.16660v1)|总结（100字以内）：<br/>该研究构建了认知科学视角下的LLM推理分类体系，揭示人机推理差异及模型局限性，提出跨模态评估框架并开发引导性推理方法，为提升模型认知能力与理解人类思维机制提供了新路径。<br/><br/>贡献点：<br/>1. 提出首个基于认知科学的28要素推理分类体系，涵盖计算限制、元认知控制、知识表征等关键维度<br/>2. 构建大规模跨模态（文本/视觉/音频）推理行为分析框架，公开170K模型痕迹与54个人类think-aloud数据集<br/>3. 首次系统比较人机推理结构差异：人类采用层级嵌套与元认知监控，模型依赖浅层前向链式推理<br/>4. 发现研究社区对元认知能力的关注不足（仅8%），而该能力与推理成功率显著相关<br/>5. 开发测试时推理引导方法，通过结构化构建提升复杂问题处理性能达60%<br/>6. 建立认知机制与LLM研究的跨学科桥梁，推动基于原则性认知机制的模型发展|
