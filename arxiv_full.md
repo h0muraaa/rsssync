@@ -1,6 +1,14 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.01626v1|[Parallel Delayed Memory Units for Enhanced Temporal Modeling in Biomedical and Bioacoustic Signal Analysis](https://arxiv.org/abs/2512.01626v1)||
+|2512.01537v1|[Q2D2: A Geometry-Aware Audio Codec Leveraging Two-Dimensional Quantization](https://arxiv.org/abs/2512.01537v1)||
+|2512.01428v1|[Masked Symbol Modeling for Demodulation of Oversampled Baseband Communication Signals in Impulsive Noise-Dominated Channels](https://arxiv.org/abs/2512.01428v1)||
+|2512.00883v1|[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)||
+|2512.00563v1|[Explainable Multi-Modal Deep Learning for Automatic Detection of Lung Diseases from Respiratory Audio Signals](https://arxiv.org/abs/2512.00563v1)||
+|2512.00451v1|[STCTS: Generative Semantic Compression for Ultra-Low Bitrate Speech via Explicit Text-Prosody-Timbre Decomposition](https://arxiv.org/abs/2512.00451v1)||
+|2512.00115v1|[MoLT: Mixture of Layer-Wise Tokens for Efficient Audio-Visual Learning](https://arxiv.org/abs/2512.00115v1)||
 |2511.23142v1|[Adapting Neural Audio Codecs to EEG](https://arxiv.org/abs/2511.23142v1)||
+|2511.22696v2|[Probabilistic Fusion and Calibration of Neural Speaker Diarization Models](https://arxiv.org/abs/2511.22696v2)||
 |2511.22696v1|[Probabilistic Fusion and Calibration of Neural Speaker Diarization Models](https://arxiv.org/abs/2511.22696v1)||
 |2511.21780v1|[3MDiT: Unified Tri-Modal Diffusion Transformer for Text-Driven Synchronized Audio-Video Generation](https://arxiv.org/abs/2511.21780v1)||
 |2511.21580v1|[Harmonic-Percussive Disentangled Neural Audio Codec for Bandwidth Extension](https://arxiv.org/abs/2511.21580v1)||
