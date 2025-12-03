@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.02192v1|[Story2MIDI: Emotionally Aligned Music Generation from Text](https://arxiv.org/abs/2512.02192v1)||
 |2512.00120v1|[Art2Music: Generating Music for Art Images with Multi-modal Feeling Alignment](https://arxiv.org/abs/2512.00120v1)||
 |2511.17926v1|[Three-Class Emotion Classification for Audiovisual Scenes Based on Ensemble Learning Scheme](https://arxiv.org/abs/2511.17926v1)||
 |2511.13936v1|[Preference-Based Learning in Audio Applications: A Systematic Analysis](https://arxiv.org/abs/2511.13936v1)|**分点贡献：**  <br/>1. **揭示研究空白**：系统综述显示音视频领域偏好学习应用不足（仅6%），指出其在音频生成任务中的未被充分探索潜力。  <br/>2. **时间趋势分析**：区分2021年前后研究范式，指出传统排序方法（rankSVM）向现代RLHF生成框架的转变。  <br/>3. **关键模式识别**：提出三类核心趋势：多维度评估策略整合、传统指标与人类判断的不一致性、多阶段训练流程收敛。  <br/>4. **实践建议**：呼吁建立标准化基准、高质量音频数据集，并系统研究时间因素对偏好学习框架的影响。  <br/><br/>**总结（100字内）**：论文通过系统综述揭示音频领域偏好学习研究不足，指出范式转变与核心趋势，提出标准化评估与时间因素研究需求，为音频生成模型评价体系提供方向。|
