@@ -1,5 +1,7 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.03034v1|[MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation](https://arxiv.org/abs/2512.03034v1)||
+|2512.02515v1|[VibOmni: Towards Scalable Bone-conduction Speech Enhancement on Earables](https://arxiv.org/abs/2512.02515v1)||
 |2512.01512v1|[MCAT: Scaling Many-to-Many Speech-to-Text Translation with MLLMs to 70 Languages](https://arxiv.org/abs/2512.01512v1)||
 |2512.01450v1|[Model-Based Clustering of Functional Data Via Random Projection Ensembles](https://arxiv.org/abs/2512.01450v1)||
 |2512.01267v1|[ZO-ASR: Zeroth-Order Fine-Tuning of Speech Foundation Models without Back-Propagation](https://arxiv.org/abs/2512.01267v1)||
