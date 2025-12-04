@@ -1,5 +1,11 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.03918v1|[UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework](https://arxiv.org/abs/2512.03918v1)||
+|2512.03590v1|[Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation](https://arxiv.org/abs/2512.03590v1)||
+|2512.03563v1|[State Space Models for Bioacoustics: A comparative Evaluation with Transformers](https://arxiv.org/abs/2512.03563v1)||
+|2512.03553v1|[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v1)||
+|2512.03289v1|[DAWZY: A New Addition to AI powered "Human in the Loop" Music Co-creation](https://arxiv.org/abs/2512.03289v1)||
+|2512.03219v1|[Perch 2.0 transfers 'whale' to underwater tasks](https://arxiv.org/abs/2512.03219v1)||
 |2512.02306v1|[OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning](https://arxiv.org/abs/2512.02306v1)||
 |2512.02231v1|[See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models](https://arxiv.org/abs/2512.02231v1)||
 |2512.01865v1|[Cross-Lingual Interleaving for Speech Language Models](https://arxiv.org/abs/2512.01865v1)||
@@ -11,6 +17,7 @@
 |2512.00234v1|[OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion](https://arxiv.org/abs/2512.00234v1)||
 |2511.23370v1|[Scaling HuBERT for African Languages: From Base to Large and XL](https://arxiv.org/abs/2511.23370v1)||
 |2511.22883v1|[FEANEL: A Benchmark for Fine-Grained Error Analysis in K-12 English Writing](https://arxiv.org/abs/2511.22883v1)||
+|2511.22826v2|[Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs](https://arxiv.org/abs/2511.22826v2)||
 |2511.22826v1|[Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs](https://arxiv.org/abs/2511.22826v1)||
 |2511.22344v1|[Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](https://arxiv.org/abs/2511.22344v1)||
 |2511.22229v1|[VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task](https://arxiv.org/abs/2511.22229v1)||
@@ -35,6 +42,7 @@
 |2511.16660v1|[Cognitive Foundations for Reasoning and Their Manifestation in LLMs](https://arxiv.org/abs/2511.16660v1)|总结（100字以内）：<br/>该研究构建了认知科学视角下的LLM推理分类体系，揭示人机推理差异及模型局限性，提出跨模态评估框架并开发引导性推理方法，为提升模型认知能力与理解人类思维机制提供了新路径。<br/><br/>贡献点：<br/>1. 提出首个基于认知科学的28要素推理分类体系，涵盖计算限制、元认知控制、知识表征等关键维度<br/>2. 构建大规模跨模态（文本/视觉/音频）推理行为分析框架，公开170K模型痕迹与54个人类think-aloud数据集<br/>3. 首次系统比较人机推理结构差异：人类采用层级嵌套与元认知监控，模型依赖浅层前向链式推理<br/>4. 发现研究社区对元认知能力的关注不足（仅8%），而该能力与推理成功率显著相关<br/>5. 开发测试时推理引导方法，通过结构化构建提升复杂问题处理性能达60%<br/>6. 建立认知机制与LLM研究的跨学科桥梁，推动基于原则性认知机制的模型发展|
 |2511.16544v2|[WER is Unaware: Assessing How ASR Errors Distort Clinical Understanding in Patient Facing Dialogue](https://arxiv.org/abs/2511.16544v2)||
 |2511.16544v1|[WER is Unaware: Assessing How ASR Errors Distort Clinical Understanding in Patient Facing Dialogue](https://arxiv.org/abs/2511.16544v1)|总结（100字以内）：<br/>本研究挑战传统ASR评估方法，提出基于临床专家判断的黄金标准，开发LLM-as-a-Judge框架，实现与人类专家相当的临床影响评估，推动ASR从文本准确性向临床安全性评估的转型。<br/><br/>贡献点：<br/>1. **挑战传统评估体系**：质疑WER等传统指标对临床对话ASR错误评估的适用性，揭示其与临床影响标签相关性差。<br/>2. **构建黄金标准基准**：通过临床专家对真实与ASR生成对话的标注，建立首个反映临床影响的评估标准。<br/>3. **提出LLM-as-a-Judge框架**：首次将大语言模型优化为临床评估者，通过GEPA算法实现与专家一致的评估性能（90%准确率，κ=0.816）。<br/>4. **实现自动化安全评估**：构建可扩展的自动化评估框架，推动ASR从文本准确度向临床对话安全性评估的范式转变。|
+|2511.16345v2|[NLP Datasets for Idiom and Figurative Language Tasks](https://arxiv.org/abs/2511.16345v2)||
 |2511.16345v1|[NLP Datasets for Idiom and Figurative Language Tasks](https://arxiv.org/abs/2511.16345v1)|总结（100字以内）：  <br/>本文构建了两个新型数据集，涵盖潜在和确定的隐喻表达，通过整合现有数据并结合大规模语料库，支持预训练模型在隐喻识别任务中的评估与训练，为提升LLMs对修辞语言的理解提供了重要资源。<br/><br/>贡献点分点：  <br/>1. **提出新型数据集**：构建了包含潜在（大规模语料）和确定（人工标注）隐喻表达的两个数据集，用于系统性评估预训练语言模型的隐喻识别能力。  <br/>2. **整合现有资源**：通过合并近期隐喻相关数据集，生成综合的隐喻列表，并利用其从大型语料库中提取上下文语句。  <br/>3. **多样化分类**：提供多种隐喻类别，为构建新模型和探索新方法提供基准与训练材料。  <br/>4. **后处理兼容性**：对数据集进行模型无关的预处理，确保其可应用于不同模型的训练和评估任务。  <br/>5. **任务适配性**：数据集支持槽位标注和序列标记等任务，拓展了隐喻研究在NLP中的应用范围。  <br/>6. **推动研究方向**：通过提供高质量数据，弥补LLMs处理隐喻的不足，为改进模型性能提供数据支持。|
 |2511.15552v2|[Multimodal Evaluation of Russian-language Architectures](https://arxiv.org/abs/2511.15552v2)|**贡献点：**  <br/>1. **构建首个俄语多模态基准**：提出Mera Multi框架，填补俄语多模态评估体系的空白，针对俄语语音架构进行系统性测试。  <br/>2. **多样化任务设计**：涵盖文本、图像、音频、视频四类模态，开发18个新任务，适用于通用模型和模态专用模型（如图像-文本、视频-文本、音频-文本）。  <br/>3. **文化适配性数据集**：完全从头构建数据集，注重俄语文化与语言特性，统一提示模板与评估指标，确保评价的严谨性与针对性。  <br/>4. **防泄露方法论**：提出水印技术和私有数据集许可机制，防止基准测试数据泄露，保障模型训练的合规性与安全性。  <br/>5. **通用性迁移**：方法论可复制至其他语言（尤其是斯拉夫语系），为构建多语言多模态基准提供标准化模板。|
 |2511.15552v1|[Multimodal Evaluation of Russian-language Architectures](https://arxiv.org/abs/2511.15552v1)|**贡献点：**  <br/>1. **提出首个俄语多模态基准**：构建面向俄语的开放多模态评估框架Mera Multi，填补俄语领域多模态基准的空白。  <br/>2. **18项新任务设计**：涵盖文本、图像、音频、视频等模态，针对通用模型和模态特异性架构（如图像-文本、视频-文本、音频-文本）开发任务。  <br/>3. **统一评估体系**：创建符合俄语文化与语言特性的全新开源数据集，采用统一提示和度量标准。  <br/>4. **防泄漏方法**：引入水印技术和许可证管理，确保私有数据集的完整性与保密性。  <br/>5. **通用方法论**：提供可复制的框架，支持未来在其他语言（尤其是斯拉夫语系）中构建多模态基准。  <br/><br/>**总结（100字内）：**  <br/>本研究提出首个俄语多模态评估框架Mera Multi，构建18项跨模态任务及符合语言特性的数据集，设计防泄漏机制，并为其他语言的基准开发提供可复制方法，推动多模态模型的跨语言研究。|
