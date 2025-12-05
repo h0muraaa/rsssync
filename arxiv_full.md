@@ -1,5 +1,11 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.04827v1|[Contract-Driven QoE Auditing for Speech and Singing Services: From MOS Regression to Service Graphs](https://arxiv.org/abs/2512.04827v1)||
+|2512.04814v1|[Shared Multi-modal Embedding Space for Face-Voice Association](https://arxiv.org/abs/2512.04814v1)||
+|2512.04793v1|[YingMusic-SVC: Real-World Robust Zero-Shot Singing Voice Conversion with Flow-GRPO and Singing-Specific Inductive Biases](https://arxiv.org/abs/2512.04793v1)||
+|2512.04779v1|[YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance](https://arxiv.org/abs/2512.04779v1)||
+|2512.04616v1|[Standard audiogram classification from loudness scaling data using unsupervised, supervised, and explainable machine learning techniques](https://arxiv.org/abs/2512.04616v1)||
+|2512.03783v2|[Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.03783v2)||
 |2512.03783v1|[Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.03783v1)||
 |2512.03637v1|[AaPE: Aliasing-aware Patch Embedding for Self-Supervised Audio Representation Learning](https://arxiv.org/abs/2512.03637v1)||
 |2512.02783v1|[Exploring Definitions of Quality and Diversity in Sonic Measurement Spaces](https://arxiv.org/abs/2512.02783v1)||
