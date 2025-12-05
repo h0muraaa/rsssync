@@ -1,5 +1,8 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.04728v1|[Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild](https://arxiv.org/abs/2512.04728v1)||
+|2512.04711v1|[Large Speech Model Enabled Semantic Communication](https://arxiv.org/abs/2512.04711v1)||
+|2512.04499v1|[Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model](https://arxiv.org/abs/2512.04499v1)||
 |2512.03918v1|[UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework](https://arxiv.org/abs/2512.03918v1)||
 |2512.03590v1|[Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation](https://arxiv.org/abs/2512.03590v1)||
 |2512.03563v1|[State Space Models for Bioacoustics: A comparative Evaluation with Transformers](https://arxiv.org/abs/2512.03563v1)||
