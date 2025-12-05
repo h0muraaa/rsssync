@@ -63,4 +63,3 @@
 |2510.06927v1|[Towards Responsible Evaluation for Text-to-Speech](https://arxiv.org/abs/2510.06927v1)||
 |2510.06201v1|[TokenChain: A Discrete Speech Chain via Semantic Token Modeling](https://arxiv.org/abs/2510.06201v1)||
 |2510.06195v1|[Latent Speech-Text Transformer](https://arxiv.org/abs/2510.06195v1)||
-|2510.04738v1|[Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba](https://arxiv.org/abs/2510.04738v1)||
