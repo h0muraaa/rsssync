@@ -1,5 +1,7 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.04720v1|[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)||
+|2512.04618v1|[Neural Decoding of Overt Speech from ECoG Using Vision Transformers and Contrastive Representation Learning](https://arxiv.org/abs/2512.04618v1)||
 |2512.03034v1|[MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation](https://arxiv.org/abs/2512.03034v1)||
 |2512.02515v1|[VibOmni: Towards Scalable Bone-conduction Speech Enhancement on Earables](https://arxiv.org/abs/2512.02515v1)||
 |2512.01512v1|[MCAT: Scaling Many-to-Many Speech-to-Text Translation with MLLMs to 70 Languages](https://arxiv.org/abs/2512.01512v1)||
