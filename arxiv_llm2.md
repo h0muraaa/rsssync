@@ -1,5 +1,12 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.04964v1|[HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages](https://arxiv.org/abs/2512.04964v1)||
+|2512.04945v1|[TripleC Learning and Lightweight Speech Enhancement for Multi-Condition Target Speech Extraction](https://arxiv.org/abs/2512.04945v1)||
+|2512.04847v1|[Language Models as Semantic Teachers: Post-Training Alignment for Medical Audio Understanding](https://arxiv.org/abs/2512.04847v1)||
+|2512.04792v1|[Towards predicting binaural audio quality in listeners with normal and impaired hearing](https://arxiv.org/abs/2512.04792v1)||
+|2512.04552v1|[RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS](https://arxiv.org/abs/2512.04552v1)||
+|2512.04551v1|[Multi-Loss Learning for Speech Emotion Recognition with Energy-Adaptive Mixup and Frame-Level Attention](https://arxiv.org/abs/2512.04551v1)||
+|2512.03636v2|[Head, posture, and full-body gestures in dyadic conversations](https://arxiv.org/abs/2512.03636v2)||
 |2512.02891v1|[Perceptual evaluation of Acoustic Level of Detail in Virtual Acoustic Environments](https://arxiv.org/abs/2512.02891v1)||
 |2512.02759v1|[Towards Language-Independent Face-Voice Association with Multimodal Foundation Models](https://arxiv.org/abs/2512.02759v1)||
 |2512.02650v1|[Hear What Matters! Text-conditioned Selective Video-to-Audio Generation](https://arxiv.org/abs/2512.02650v1)||
@@ -130,5 +137,3 @@
 |2510.12175v2|[Audio Palette: A Diffusion Transformer with Multi-Signal Conditioning for Controllable Foley Synthesis](https://arxiv.org/abs/2510.12175v2)|总结：  <br/>提出Audio Palette模型，通过引入四项时间变化声学控制信号和LoRA参数高效适配，实现高质量、可解释的可控音频生成，支持艺术家导向的音频创作。<br/><br/>贡献点：<br/>1. **首个四维时间可控音频生成模型**：首次引入时间变化的loudness（响度）、pitch（音高）、spectral centroid（频谱中心）和timbre（音色）控制信号，实现对声学特征的精确、可解释操控。<br/>2. **参数高效适配方法**：基于LoRA技术，在AudioSet的精简子集上训练（仅需0.85%原始参数），显著降低计算成本并保持生成质量。<br/>3. **保持音质与语义对齐**：在实现细粒度控制的同时，维持与基线模型相似的FAD和LAION-CLAP指标表现，确保高质量和文本语义一致性。<br/>4. **模块化可扩展框架**：设计支持序列条件、内存高效且具备三尺度分类器自由引导机制的可扩展生成流水线，提升音频研究的灵活性与实用性。<br/>5. **开源可控音频合成新范式**：为开放研究环境下的可控声音设计和表演型音频合成提供稳健基础，推动艺术家主导的音频创作流程。|
 |2510.08392v2|[MeanVC: Lightweight and Streaming Zero-Shot Voice Conversion via Mean Flows](https://arxiv.org/abs/2510.08392v2)||
 |2510.06625v2|[Pitch Estimation With Mean Averaging Smoothed Product Spectrum And Musical Consonance Evaluation Using MASP](https://arxiv.org/abs/2510.06625v2)|**贡献点：**<br/>1. 提出MASP谱（改进的谐波积谱），通过全局均值平滑增强对缺失泛音频谱的鲁棒性，提升音高估计准确性。<br/>2. 将MASP算法扩展为谐波性度量H，用于评估二/三音和声的音乐和声性，结果与音乐理论感知一致。<br/>3. 揭示音高与和声感知可能共享基于频谱的底层机制，为语音与音乐感知研究提供新视角。<br/><br/>**总结（100字内）：**  <br/>提出MASP谱改进音高估计，扩展为谐波性度量评估和声，揭示音高与和声感知共享频谱机制，推动语音及音乐感知研究。|
-|2510.04593v2|[UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models](https://arxiv.org/abs/2510.04593v2)|**贡献点总结：**  <br/>1. 提出UniVoice框架，首次将ASR与TTS整合为统一模型，突破传统独立处理模式。  <br/>2. 采用连续表示替代离散语音标记，减少信息损失并提升任务衔接性。  <br/>3. 结合自回归建模（ASR）与流匹配（高保真生成），兼顾效率与质量。  <br/>4. 设计双注意力机制，动态切换因果掩码与双向掩码以协调模型差异。  <br/>5. 引入文本前缀条件语音填充方法，实现高保真度零样本语音克隆。  <br/>6. 实验验证方法在ASR与零样本TTS任务中性能超越单任务模型。  <br/>7. 探索端到端语音理解与生成的新范式，推动语音处理技术发展。  <br/><br/>**总结（100字内）：**  <br/>UniVoice通过连续表示与双注意力机制，首次统一ASR与TTS任务，实现高效高质量语音处理，尤其在零样本语音克隆中表现突出，为端到端语音理解生成提供新思路。|
-|2510.04584v1|[Robustness assessment of large audio language models in multiple-choice evaluation](https://arxiv.org/abs/2510.04584v1)|**贡献点**  <br/>1. 系统评估了现有 MCQA 框架在三大基准（MMAU、MMAR、MMSU）上的鲁棒性，揭示模型对选项顺序、问题与选项的同义改写均极为敏感。  <br/>2. 对四种主流 LALM（Audio Flamingo 2/3、Qwen2.5‑Omni‑7B‑Instruct、Kimi‑Audio‑7B‑Instruct）进行实验，验证上述敏感性具有模型普遍性。  <br/>3. 归纳出 MCQA 评估中隐藏的变量对结果产生的偏差，指出单一准确率指标的局限性。  <br/>4. 提出更简洁、稳健的评估协议和度量方式，能够同时考虑选项顺序与文本改写的影响，提供更细致、可解释的 LALM 评估报告。  <br/><br/>**100字以内总结**  <br/>研究表明现有 MCQA 评估对选项顺序、题目及选项改写极为敏感，提出更稳健的评估协议和指标，实现对大型音频语言模型更细致的评估。|
