@@ -57,7 +57,6 @@
 |2510.09225v1|[Unsupervised lexicon learning from speech is limited by representations rather than clustering](https://arxiv.org/abs/2510.09225v1)||
 |2510.09061v1|[O_O-VC: Synthetic Data-Driven One-to-One Alignment for Any-to-Any Voice Conversion](https://arxiv.org/abs/2510.09061v1)||
 |2510.08878v1|[ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling](https://arxiv.org/abs/2510.08878v1)||
-|2510.08599v1|[BaldWhisper: Faster Whisper with Head Shearing and Layer Merging](https://arxiv.org/abs/2510.08599v1)||
 |2510.08373v1|[DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching](https://arxiv.org/abs/2510.08373v1)||
 |2510.07497v1|[Can Speech LLMs Think while Listening?](https://arxiv.org/abs/2510.07497v1)||
 |2510.06927v1|[Towards Responsible Evaluation for Text-to-Speech](https://arxiv.org/abs/2510.06927v1)||
