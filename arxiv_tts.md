@@ -59,6 +59,3 @@
 |2510.08878v1|[ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling](https://arxiv.org/abs/2510.08878v1)||
 |2510.08373v1|[DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching](https://arxiv.org/abs/2510.08373v1)||
 |2510.07497v1|[Can Speech LLMs Think while Listening?](https://arxiv.org/abs/2510.07497v1)||
-|2510.06927v1|[Towards Responsible Evaluation for Text-to-Speech](https://arxiv.org/abs/2510.06927v1)||
-|2510.06201v1|[TokenChain: A Discrete Speech Chain via Semantic Token Modeling](https://arxiv.org/abs/2510.06201v1)||
-|2510.06195v1|[Latent Speech-Text Transformer](https://arxiv.org/abs/2510.06195v1)||
