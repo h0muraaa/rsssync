@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.05126v1|[SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model](https://arxiv.org/abs/2512.05126v1)||
 |2511.17555v1|[Speech Recognition Model Improves Text-to-Speech Synthesis using Fine-Grained Reward](https://arxiv.org/abs/2511.17555v1)||
 |2511.14948v1|[RocSync: Millisecond-Accurate Temporal Synchronization for Heterogeneous Camera Systems](https://arxiv.org/abs/2511.14948v1)|总结：提出一种低成本跨模态多摄像头同步方法，实现毫秒级精度，显著优于现有技术并验证于复杂手术场景。<br/><br/>贡献点：<br/>1. 首创通用低成本同步方案，兼容异构设备（专业/消费级、可见光/红外）<br/>2. 设计LED Clock时序编码系统，通过视觉解码实现跨模态毫秒级同步<br/>3. 在多模态视频同步任务中取得1.34ms RMSE的业界领先精度<br/>4. 在25+摄像头的大型手术场景中验证系统鲁棒性与实用性<br/>5. 为工业/临床等无约束环境提供可靠的时间空间对齐解决方案|
 |2511.14312v1|[H-LDM: Hierarchical Latent Diffusion Models for Controllable and Interpretable PCG Synthesis from Clinical Metadata](https://arxiv.org/abs/2511.14312v1)|**贡献点：**  <br/>1. **多尺度VAE架构**：构建生理特征解耦的潜在空间，实现心律、心音、杂音等多模态信号的分离表征。  <br/>2. **分层文本到生物信号管道**：基于临床结构化元数据，精细控制17种病理条件的生成，提升数据可控性。  <br/>3. **医学注意力引导的扩散过程**：引入可解释的Medical Attention模块，增强生成信号的临床可解释性与真实性。  <br/><br/>**总结（100字内）：**  <br/>提出H-LDM模型，通过多尺度VAE、分层文本控制和医学注意力模块生成高临床效用的PCG信号，解决病理数据稀缺问题，显著提升罕见疾病分类准确率，推动心脏诊断数据增强技术发展。|
@@ -53,7 +54,3 @@
 |2510.12834v1|[Gelina: Unified Speech and Gesture Synthesis via Interleaved Token Prediction](https://arxiv.org/abs/2510.12834v1)||
 |2510.12827v1|[Automatic Speech Recognition in the Modern Era: Architectures, Training, and Evaluation](https://arxiv.org/abs/2510.12827v1)||
 |2510.12210v2|[DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation](https://arxiv.org/abs/2510.12210v2)||
-|2510.09424v1|[The Speech-LLM Takes It All: A Truly Fully End-to-End Spoken Dialogue State Tracking Approach](https://arxiv.org/abs/2510.09424v1)||
-|2510.09225v1|[Unsupervised lexicon learning from speech is limited by representations rather than clustering](https://arxiv.org/abs/2510.09225v1)||
-|2510.09061v1|[O_O-VC: Synthetic Data-Driven One-to-One Alignment for Any-to-Any Voice Conversion](https://arxiv.org/abs/2510.09061v1)||
-|2510.08878v1|[ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling](https://arxiv.org/abs/2510.08878v1)||
