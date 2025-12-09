@@ -1,5 +1,27 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.07741v1|[A multimodal Bayesian Network for symptom-level depression and anxiety prediction from voice and speech data](https://arxiv.org/abs/2512.07741v1)||
+|2512.07627v1|[Incorporating Structure and Chord Constraints in Symbolic Transformer-based Melodic Harmonization](https://arxiv.org/abs/2512.07627v1)||
+|2512.07570v1|[Introduction to Ambisonics, Part 1: The Part With No Math](https://arxiv.org/abs/2512.07570v1)||
+|2512.07352v1|[MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection](https://arxiv.org/abs/2512.07352v1)||
+|2512.07351v1|[DeepAgent: A Dual Stream Multi Agent Fusion for Robust Multimodal Deepfake Detection](https://arxiv.org/abs/2512.07351v1)||
+|2512.07277v1|[Efficient ASR for Low-Resource Languages: Leveraging Cross-Lingual Unlabeled Data](https://arxiv.org/abs/2512.07277v1)||
+|2512.07265v1|[TeluguST-46: A Benchmark Corpus and Comprehensive Evaluation for Telugu-English Speech Translation](https://arxiv.org/abs/2512.07265v1)||
+|2512.07209v1|[Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits](https://arxiv.org/abs/2512.07209v1)||
+|2512.07168v1|[JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention](https://arxiv.org/abs/2512.07168v1)||
+|2512.07005v1|[Multi-Accent Mandarin Dry-Vocal Singing Dataset: Benchmark for Singing Accent Recognition](https://arxiv.org/abs/2512.07005v1)||
+|2512.06999v1|[Singing Timbre Popularity Assessment Based on Multimodal Large Foundation Model](https://arxiv.org/abs/2512.06999v1)||
+|2512.06890v1|[What Needs to be Known in Order to Perform a Meaningful Scientific Comparison Between Animal Communications and Human Spoken Language](https://arxiv.org/abs/2512.06890v1)||
+|2512.06757v1|[XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association](https://arxiv.org/abs/2512.06757v1)||
+|2512.06417v1|[Hankel-FNO: Fast Underwater Acoustic Charting Via Physics-Encoded Fourier Neural Operator](https://arxiv.org/abs/2512.06417v1)||
+|2512.06304v1|[Degrading Voice: A Comprehensive Overview of Robust Voice Conversion Through Input Manipulation](https://arxiv.org/abs/2512.06304v1)||
+|2512.06041v1|[Technical Report of Nomi Team in the Environmental Sound Deepfake Detection Challenge 2026](https://arxiv.org/abs/2512.06041v1)||
+|2512.06040v1|[Physics-Guided Deepfake Detection for Voice Authentication Systems](https://arxiv.org/abs/2512.06040v1)||
+|2512.05701v1|[A Multi-Channel Auditory Signal Encoder with Adaptive Resolution Using Volatile Memristors](https://arxiv.org/abs/2512.05701v1)||
+|2512.05592v1|[The T12 System for AudioMOS Challenge 2025: Audio Aesthetics Score Prediction System Using KAN- and VERSA-based Models](https://arxiv.org/abs/2512.05592v1)||
+|2512.05528v1|[Decoding Selective Auditory Attention to Musical Elements in Ecologically Valid Music Listening](https://arxiv.org/abs/2512.05528v1)||
+|2512.05355v1|[Noise Suppression for Time Difference of Arrival: Performance Evaluation of a Generalized Cross-Correlation Method Using Mean Signal and Inverse Filter](https://arxiv.org/abs/2512.05355v1)||
+|2512.05201v2|[MuMeNet: A Network Simulator for Musical Metaverse Communications](https://arxiv.org/abs/2512.05201v2)||
 |2512.04827v1|[Contract-Driven QoE Auditing for Speech and Singing Services: From MOS Regression to Service Graphs](https://arxiv.org/abs/2512.04827v1)||
 |2512.04814v1|[Shared Multi-modal Embedding Space for Face-Voice Association](https://arxiv.org/abs/2512.04814v1)||
 |2512.04793v1|[YingMusic-SVC: Real-World Robust Zero-Shot Singing Voice Conversion with Flow-GRPO and Singing-Specific Inductive Biases](https://arxiv.org/abs/2512.04793v1)||
@@ -93,3 +115,4 @@
 |2510.21004v2|[Can Current Detectors Catch Face-to-Voice Deepfake Attacks?](https://arxiv.org/abs/2510.21004v2)|总结：  <br/>本研究系统评估了FOICE生成语音的检测效果，提出针对性微调策略并分析其泛化能力，揭示现有检测技术的不足，推动下一代音频深度伪造检测方法的发展。<br/><br/>贡献点：  <br/>1. **首次系统评估**：对FOICE生成语音的检测能力进行全面评估，证实主流检测器在清洁与噪声环境下均难以有效识别。  <br/>2. **针对性微调策略**：设计捕捉FOICE特有特征的微调方法，显著提升检测准确率。  <br/>3. **泛化能力分析**：研究微调后检测器对未知合成工具的适应性，发现专精FOICE与保持鲁棒性的平衡问题。|
 |2510.17474v2|[Not All Deepfakes Are Created Equal: Triaging Audio Forgeries for Robust Deepfake Singer Identification](https://arxiv.org/abs/2510.17474v2)|总结：  <br/>本文提出两阶段系统，通过判别模型过滤低质量伪造并结合真实录音训练模型提升识别准确率，有效应对高仿真歌唱声音深度伪造的挑战。<br/><br/>贡献点：  <br/>1. 提出针对高仿真歌唱声音深度伪造的双阶段识别框架，分层处理伪造质量与歌手身份识别问题。  <br/>2. 首次引入判别模型作为第一阶段过滤器，精准剔除低质量无法还原语音特征的伪造内容。  <br/>3. 第二阶段模型专为真实录音训练，增强对高质量深度伪造和真实语音的歌手识别能力。  <br/>4. 实验证明系统在真实及合成内容上均优于现有基线方法，验证了方法的鲁棒性和有效性。|
 |2510.12858v2|[A Critical Review of the Need for Knowledge-Centric Evaluation of Quranic Recitation](https://arxiv.org/abs/2510.12858v2)|**贡献点：**<br/>1. **揭示现有评估系统的局限性**：指出当前基于ASR的系统依赖偏倚数据集、无法提供有效反馈，且过度强调词识别而非音质评估。  <br/>2. **提出知识驱动的评估框架**：倡导基于Quran文本不变性与Tajweed规则的规则化声学建模，替代数据驱动的统计模式。  <br/>3. **强调规则与发音点（Makhraj）的重要性**：主张以标准发音原则和发音部位为核心，而非依赖有偏数据训练的模型。  <br/>4. **设计混合系统解决方案**：建议结合语言学专家知识与音频处理技术，开发公平、可靠的评估工具，提升教育有效性。  <br/><br/>**总结（100字以内）**：  <br/>论文指出现有Quranic recitation评估系统依赖偏倚数据且缺乏音质分析，提出基于规则和发音原理的知识驱动框架，结合语言学与音频技术，开发公平有效的自动化评估工具。|
+|2510.12175v4|[Audio Palette: A Diffusion Transformer with Multi-Signal Conditioning for Controllable Foley Synthesis](https://arxiv.org/abs/2510.12175v4)||
