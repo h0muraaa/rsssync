@@ -1,5 +1,8 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.07226v1|[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v1)||
+|2512.06689v1|[Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation](https://arxiv.org/abs/2512.06689v1)||
+|2512.05994v1|[KidSpeak: A General Multi-purpose LLM for Kids' Speech Recognition and Screening](https://arxiv.org/abs/2512.05994v1)||
 |2512.04720v1|[M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis](https://arxiv.org/abs/2512.04720v1)||
 |2512.04618v1|[Neural Decoding of Overt Speech from ECoG Using Vision Transformers and Contrastive Representation Learning](https://arxiv.org/abs/2512.04618v1)||
 |2512.03034v1|[MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation](https://arxiv.org/abs/2512.03034v1)||
@@ -48,6 +51,25 @@
 |2511.03310v1|[TASU: Text-Only Alignment for Speech Understanding](https://arxiv.org/abs/2511.03310v1)|**贡献点分点列出：**  <br/>1. 提出TASU（Text-only Alignment for Speech Understanding），突破传统语音模型依赖音频-文本配对数据的限制，仅使用文本数据进行跨模态对齐。  <br/>2. 实现零样本语音识别的竞争力，无需对齐数据即可有效迁移至语音理解任务。  <br/>3. 将TASU作为课程学习的预训练阶段，提升语音识别模型对未见领域的泛化能力。  <br/>4. 在MMSU基准上显著优于GLM-4-Voice和Step-Audio等主流语音大模型，验证其高效性和可扩展性。  <br/><br/>**总结（100字以内）：**  <br/>本研究提出TASU，仅用文本数据实现语音模型跨模态对齐，突破传统依赖配对数据的瓶颈，显著提升零样本语音识别与领域泛化能力，并在MMSU基准上超越主流模型，展现高效、可扩展的语音理解潜力。|
 |2511.03084v1|[Quantifying Articulatory Coordination as a Biomarker for Schizophrenia](https://arxiv.org/abs/2511.03084v1)|**贡献点总结（100字以内）：**  <br/>提出可解释的语音框架，利用特征值光谱差图和WSED方法量化声带协调性，有效区分复杂与简单模式，并关联BPRS整体严重度及正负症状平衡，为精神分裂症提供透明、敏感的生物标志物，推动临床可解释语音评估工具发展。  <br/><br/>**分点贡献：**  <br/>1. **方法创新**：开发结合特征值光谱差图与WSED（加权指数衰减）的新框架，量化语音中的发声机制协调性。  <br/>2. **特征区分**：利用特征值光谱图有效识别复杂与简单协调模式，WSED分数可靠分组，模糊范围局限。  <br/>3. **症状关联性**：WSED分数与BPRS整体严重度及正负症状平衡显著相关，揭示症状类型对协调模式的影响。  <br/>4. **临床价值**：提供透明、严重度敏感的生物标志物，促进基于语音的精神分裂症临床评估工具发展。|
 |2511.02454v1|[Improving DF-Conformer Using Hydra For High-Fidelity Generative Speech Enhancement on Discrete Codec Token](https://arxiv.org/abs/2511.02454v1)|**贡献点：**  <br/>1. **替代FAVOR+机制**：用双向选择结构状态空间模型（Hydra）替代FAVOR+，消除其近似误差，提升全局序列建模能力。  <br/>2. **线性复杂度设计**：通过结构化矩阵混合框架实现线性时间复杂度，避免自注意力的二次复杂度问题。  <br/>3. **性能验证**：在Genhancer模型上实验表明，所提方法显著优于DF-Conformer，验证其在语音增强任务中的有效性。  <br/><br/>**总结（100字以内）：**  <br/>本文提出基于双向结构状态空间模型的DF-Conformer替代方案，消除FAVOR+近似并保持线性复杂度，通过Hydra模型在语音增强任务中实现性能提升，验证了其高效性与有效性。|
+|2510.27198v1|[Reference Microphone Selection for Guided Source Separation based on the Normalized L-p Norm](https://arxiv.org/abs/2510.27198v1)||
+|2510.26825v1|[Audio-Visual Speech Enhancement In Complex Scenarios With Separation And Dereverberation Joint Modeling](https://arxiv.org/abs/2510.26825v1)||
+|2510.26372v1|[UniTok-Audio: A Unified Audio Generation Framework via Generative Modeling on Discrete Codec Tokens](https://arxiv.org/abs/2510.26372v1)||
+|2510.26299v1|[Modeling strategies for speech enhancement in the latent space of a neural audio codec](https://arxiv.org/abs/2510.26299v1)||
 |2510.24821v2|[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](https://arxiv.org/abs/2510.24821v2)||
+|2510.23312v2|[Low-Resource Audio Codec (LRAC): 2025 Challenge Description](https://arxiv.org/abs/2510.23312v2)||
+|2510.23141v1|[Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement](https://arxiv.org/abs/2510.23141v1)||
+|2510.22637v1|[HyBeam: Hybrid Microphone-Beamforming Array-Agnostic Speech Enhancement for Wearables](https://arxiv.org/abs/2510.22637v1)||
+|2510.21485v1|[FlexIO: Flexible Single- and Multi-Channel Speech Separation and Enhancement](https://arxiv.org/abs/2510.21485v1)||
+|2510.20441v1|[UniSE: A Unified Framework for Decoder-only Autoregressive LM-based Speech Enhancement](https://arxiv.org/abs/2510.20441v1)||
+|2510.19439v1|[Relative Transfer Matrix Estimator using Covariance Subtraction](https://arxiv.org/abs/2510.19439v1)||
 |2510.18938v2|[StutterZero and StutterFormer: End-to-End Speech Conversion for Stuttering Transcription and Correction](https://arxiv.org/abs/2510.18938v2)|**贡献点：**  <br/>1. 提出首个端到端波形-波形模型StutterZero和StutterFormer，直接将口吃语音转换为流畅语音并联合预测转录，突破传统分阶段ASR-TTS流程的局限性。  <br/>2. 设计两种创新架构：StutterZero采用卷积-BiLSTM编码器-解码器与注意力机制，StutterFormer引入双流Transformer实现音素与语义的共享表示。  <br/>3. 在SEP-28K和LibriStutter数据合成的训练集上验证模型，首次在FluencyBank未见说话者数据上评估，体现泛化能力。  <br/>4. 实验结果显著优于基准模型（Whisper-Medium）：StutterZero WER降低24%，BERTScore提升31%；StutterFormer进一步优化至WER降28%，BERTScore升34%。  <br/>5. 验证端到端口吃-流畅语音转换的可行性，为无障碍AI、言语治疗及包容性人机交互提供新方法。  <br/><br/>**总结（100字以内）：**  <br/>该论文首次提出端到端波形-波形模型StutterZero和StutterFormer，直接转换口吃语音为流畅语音并同步预测转录，显著优于传统方法，在WER和语义相似度指标上取得突破，为无障碍AI与言语治疗提供新方向。|
+|2510.18744v1|[Diffusion Buffer for Online Generative Speech Enhancement](https://arxiv.org/abs/2510.18744v1)||
+|2510.16997v1|[Towards Real-Time Generative Speech Restoration with Flow-Matching](https://arxiv.org/abs/2510.16997v1)||
+|2510.16995v1|[Adaptive Deterministic Flow Matching for Target Speaker Extraction](https://arxiv.org/abs/2510.16995v1)||
+|2510.16834v1|[Schrödinger Bridge Mamba for One-Step Speech Enhancement](https://arxiv.org/abs/2510.16834v1)||
+|2510.16437v1|[Audio-Visual Speech Enhancement for Spatial Audio - Spatial-VisualVoice and the MAVE Database](https://arxiv.org/abs/2510.16437v1)||
 |2510.13747v2|[InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue](https://arxiv.org/abs/2510.13747v2)||
+|2510.12485v1|[I-DCCRN-VAE: An Improved Deep Representation Learning Framework for Complex VAE-based Single-channel Speech Enhancement](https://arxiv.org/abs/2510.12485v1)||
+|2510.11395v1|[Dynamically Slimmable Speech Enhancement Network with Metric-Guided Training](https://arxiv.org/abs/2510.11395v1)||
+|2510.10687v1|[LSZone: A Lightweight Spatial Information Modeling Architecture for Real-time In-car Multi-zone Speech Separation](https://arxiv.org/abs/2510.10687v1)||
+|2510.09974v1|[Universal Discrete-Domain Speech Enhancement](https://arxiv.org/abs/2510.09974v1)||
