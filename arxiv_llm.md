@@ -1,5 +1,14 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.07571v1|[A Simple Method to Enhance Pre-trained Language Models with Speech Tokens for Classification](https://arxiv.org/abs/2512.07571v1)||
+|2512.06447v1|[Towards Stable Cross-Domain Depression Recognition under Missing Modalities](https://arxiv.org/abs/2512.06447v1)||
+|2512.06380v1|[Protecting Bystander Privacy via Selective Hearing in LALMs](https://arxiv.org/abs/2512.06380v1)||
+|2512.06259v1|[Who Will Top the Charts? Multimodal Music Popularity Prediction via Adaptive Fusion of Modality Experts and Temporal Engagement Modeling](https://arxiv.org/abs/2512.06259v1)||
+|2512.05933v1|[Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech](https://arxiv.org/abs/2512.05933v1)||
+|2512.05745v1|[ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior](https://arxiv.org/abs/2512.05745v1)||
+|2512.05508v1|[Lyrics Matter: Exploiting the Power of Learnt Representations for Music Popularity Prediction](https://arxiv.org/abs/2512.05508v1)||
+|2512.05501v1|[SEA-SafeguardBench: Evaluating AI Safety in SEA Languages and Cultures](https://arxiv.org/abs/2512.05501v1)||
+|2512.05389v1|[CLIO: A Tour Guide Robot with Co-speech Actions for Visual Attention Guidance and Enhanced User Engagement](https://arxiv.org/abs/2512.05389v1)||
 |2512.04728v1|[Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild](https://arxiv.org/abs/2512.04728v1)||
 |2512.04711v1|[Large Speech Model Enabled Semantic Communication](https://arxiv.org/abs/2512.04711v1)||
 |2512.04499v1|[Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model](https://arxiv.org/abs/2512.04499v1)||
@@ -25,6 +34,7 @@
 |2511.22344v1|[Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](https://arxiv.org/abs/2511.22344v1)||
 |2511.22229v1|[VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task](https://arxiv.org/abs/2511.22229v1)||
 |2511.21760v1|[fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding](https://arxiv.org/abs/2511.21760v1)||
+|2511.21740v2|[Decoding inner speech with an end-to-end brain-to-text neural interface](https://arxiv.org/abs/2511.21740v2)||
 |2511.21251v2|[AVFakeBench: A Comprehensive Audio-Video Forgery Detection Benchmark for AV-LMMs](https://arxiv.org/abs/2511.21251v2)||
 |2511.21251v1|[AVFakeBench: A Comprehensive Audio-Video Forgery Detection Benchmark for AV-LMMs](https://arxiv.org/abs/2511.21251v1)||
 |2511.21194v1|[BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data](https://arxiv.org/abs/2511.21194v1)||
