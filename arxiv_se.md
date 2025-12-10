@@ -72,4 +72,3 @@
 |2510.12485v1|[I-DCCRN-VAE: An Improved Deep Representation Learning Framework for Complex VAE-based Single-channel Speech Enhancement](https://arxiv.org/abs/2510.12485v1)||
 |2510.11395v1|[Dynamically Slimmable Speech Enhancement Network with Metric-Guided Training](https://arxiv.org/abs/2510.11395v1)||
 |2510.10687v1|[LSZone: A Lightweight Spatial Information Modeling Architecture for Real-time In-car Multi-zone Speech Separation](https://arxiv.org/abs/2510.10687v1)||
-|2510.09974v1|[Universal Discrete-Domain Speech Enhancement](https://arxiv.org/abs/2510.09974v1)||
