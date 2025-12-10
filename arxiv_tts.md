@@ -52,5 +52,4 @@
 |2510.13630v2|[AVAR-Net: A Lightweight Audio-Visual Anomaly Recognition Framework with a Benchmark Dataset](https://arxiv.org/abs/2510.13630v2)|**总结（100字以内）**  <br/>提出AVAR-Net多模态异常识别框架，结合音频视频数据提升复杂场景下的可靠性，并构建VAAR数据集推动研究进展，实验验证其高效性与优越性能。<br/><br/>**贡献点分点**  <br/>1. **提出AVAR-Net框架**：首次设计轻量高效的音频-视觉多模态异常识别框架，通过音频（Wav2Vec2）与视频（MobileViT）特征提取、早期融合及多阶段时序卷积网络（MTCN）建模跨模态关系，实现稳健时空推理。  <br/>2. **构建VAAR数据集**：发布首个中规模同步音频-视觉异常数据集（3,000条视频，10类异常），填补领域数据缺口，为多模态研究提供基准。  <br/>3. **性能提升**：在VAAR和XD-Violance数据集上取得89.29%准确率和88.56% AP，相比现有方法提升2.8% AP，验证框架有效性与泛化能力。  <br/>4. **解决实际挑战**：有效应对遮挡、低光、恶劣天气等复杂场景，提升多模态异常检测在真实环境中的可靠性与鲁棒性。|
 |2510.12995v2|[Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](https://arxiv.org/abs/2510.12995v2)||
 |2510.12834v1|[Gelina: Unified Speech and Gesture Synthesis via Interleaved Token Prediction](https://arxiv.org/abs/2510.12834v1)||
-|2510.12827v1|[Automatic Speech Recognition in the Modern Era: Architectures, Training, and Evaluation](https://arxiv.org/abs/2510.12827v1)||
 |2510.12210v2|[DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation](https://arxiv.org/abs/2510.12210v2)||
