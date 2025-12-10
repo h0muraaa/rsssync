@@ -1,5 +1,8 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.08282v1|[PAVAS: Physics-Aware Video-to-Audio Synthesis](https://arxiv.org/abs/2512.08282v1)||
+|2512.08238v1|[SpeechQualityLLM: LLM-Based Multimodal Assessment of Speech Quality](https://arxiv.org/abs/2512.08238v1)||
+|2512.08203v1|[Error-Resilient Semantic Communication for Speech Transmission over Packet-Loss Networks](https://arxiv.org/abs/2512.08203v1)||
 |2512.07741v1|[A multimodal Bayesian Network for symptom-level depression and anxiety prediction from voice and speech data](https://arxiv.org/abs/2512.07741v1)||
 |2512.07627v1|[Incorporating Structure and Chord Constraints in Symbolic Transformer-based Melodic Harmonization](https://arxiv.org/abs/2512.07627v1)||
 |2512.07570v1|[Introduction to Ambisonics, Part 1: The Part With No Math](https://arxiv.org/abs/2512.07570v1)||
