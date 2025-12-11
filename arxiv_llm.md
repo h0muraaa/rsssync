@@ -1,5 +1,9 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.09841v1|[ChronusOmni: Improving Time Awareness of Omni Large Language Models](https://arxiv.org/abs/2512.09841v1)||
+|2512.09662v1|[Can LLMs Evaluate What They Cannot Annotate? Revisiting LLM Reliability in Hate Speech Detection](https://arxiv.org/abs/2512.09662v1)||
+|2512.09563v1|[System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/abs/2512.09563v1)||
+|2512.09142v1|[SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation](https://arxiv.org/abs/2512.09142v1)||
 |2512.07571v1|[A Simple Method to Enhance Pre-trained Language Models with Speech Tokens for Classification](https://arxiv.org/abs/2512.07571v1)||
 |2512.06447v1|[Towards Stable Cross-Domain Depression Recognition under Missing Modalities](https://arxiv.org/abs/2512.06447v1)||
 |2512.06380v1|[Protecting Bystander Privacy via Selective Hearing in LALMs](https://arxiv.org/abs/2512.06380v1)||
