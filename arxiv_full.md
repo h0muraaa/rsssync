@@ -1,5 +1,9 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.09504v1|[DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance](https://arxiv.org/abs/2512.09504v1)||
+|2512.09327v1|[UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking](https://arxiv.org/abs/2512.09327v1)||
+|2512.09299v1|[VABench: A Comprehensive Benchmark for Audio-Video Generation](https://arxiv.org/abs/2512.09299v1)||
+|2512.09285v1|[Who Speaks What from Afar: Eavesdropping In-Person Conversations via mmWave Sensing](https://arxiv.org/abs/2512.09285v1)||
 |2512.08282v1|[PAVAS: Physics-Aware Video-to-Audio Synthesis](https://arxiv.org/abs/2512.08282v1)||
 |2512.08238v1|[SpeechQualityLLM: LLM-Based Multimodal Assessment of Speech Quality](https://arxiv.org/abs/2512.08238v1)||
 |2512.08203v1|[Error-Resilient Semantic Communication for Speech Transmission over Packet-Loss Networks](https://arxiv.org/abs/2512.08203v1)||
