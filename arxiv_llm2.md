@@ -1,5 +1,9 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.09786v1|[TinyDéjàVu: Smaller Memory Footprint & Faster Inference on Sensor Data Streams with Always-On Microcontrollers](https://arxiv.org/abs/2512.09786v1)||
+|2512.09713v1|[Robust Speech Activity Detection in the Presence of Singing Voice](https://arxiv.org/abs/2512.09713v1)||
+|2512.09221v1|[Human perception of audio deepfakes: the role of language and speaking style](https://arxiv.org/abs/2512.09221v1)||
+|2512.09000v1|[LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge](https://arxiv.org/abs/2512.09000v1)||
 |2512.08403v1|[DFALLM: Achieving Generalizable Multitask Deepfake Detection by Optimizing Audio LLM Components](https://arxiv.org/abs/2512.08403v1)||
 |2512.08319v1|[BUT Systems for Environmental Sound Deepfake Detection in the ESDD 2026 Challenge](https://arxiv.org/abs/2512.08319v1)||
 |2512.08313v1|[An Adaptive Method for Target Curve Selection](https://arxiv.org/abs/2512.08313v1)||
@@ -18,6 +22,7 @@
 |2512.01559v1|[LLM2Fx-Tools: Tool Calling For Music Post-Production](https://arxiv.org/abs/2512.01559v1)||
 |2512.01466v1|[Identifiability Conditions for Acoustic Feedback Cancellation with the Two-Channel Adaptive Feedback Canceller Algorithm](https://arxiv.org/abs/2512.01466v1)||
 |2512.00937v1|[Arabic TTS with FastPitch: Reproducible Baselines, Adversarial Training, and Oversmoothing Analysis](https://arxiv.org/abs/2512.00937v1)||
+|2512.00511v2|[A Low-Complexity Speech Codec Using Parametric Dithering for ASR](https://arxiv.org/abs/2512.00511v2)||
 |2512.00511v1|[A Low-Complexity Speech Codec Using Parametric Dithering for ASR](https://arxiv.org/abs/2512.00511v1)||
 |2512.00482v1|[Beyond Performance: Probing Representation Dynamics In Speech Enhancement Models](https://arxiv.org/abs/2512.00482v1)||
 |2511.23178v1|[HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding](https://arxiv.org/abs/2511.23178v1)||
