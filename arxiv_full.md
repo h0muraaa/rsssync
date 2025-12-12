@@ -1,5 +1,8 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.10375v1|[Neural personal sound zones with flexible bright zone control](https://arxiv.org/abs/2512.10375v1)||
+|2512.10264v1|[MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation](https://arxiv.org/abs/2512.10264v1)||
+|2512.10170v1|[Semantic-Aware Confidence Calibration for Automated Audio Captioning](https://arxiv.org/abs/2512.10170v1)||
 |2512.09504v1|[DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance](https://arxiv.org/abs/2512.09504v1)||
 |2512.09327v1|[UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking](https://arxiv.org/abs/2512.09327v1)||
 |2512.09299v1|[VABench: A Comprehensive Benchmark for Audio-Video Generation](https://arxiv.org/abs/2512.09299v1)||
