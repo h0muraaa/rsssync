@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.10382v1|[Investigating training objective for flow matching-based speech enhancement](https://arxiv.org/abs/2512.10382v1)||
 |2512.07226v1|[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v1)||
 |2512.06689v1|[Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation](https://arxiv.org/abs/2512.06689v1)||
 |2512.05994v1|[KidSpeak: A General Multi-purpose LLM for Kids' Speech Recognition and Screening](https://arxiv.org/abs/2512.05994v1)||
@@ -70,5 +71,3 @@
 |2510.16437v1|[Audio-Visual Speech Enhancement for Spatial Audio - Spatial-VisualVoice and the MAVE Database](https://arxiv.org/abs/2510.16437v1)||
 |2510.13747v2|[InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue](https://arxiv.org/abs/2510.13747v2)||
 |2510.12485v1|[I-DCCRN-VAE: An Improved Deep Representation Learning Framework for Complex VAE-based Single-channel Speech Enhancement](https://arxiv.org/abs/2510.12485v1)||
-|2510.11395v1|[Dynamically Slimmable Speech Enhancement Network with Metric-Guided Training](https://arxiv.org/abs/2510.11395v1)||
-|2510.10687v1|[LSZone: A Lightweight Spatial Information Modeling Architecture for Real-time In-car Multi-zone Speech Separation](https://arxiv.org/abs/2510.10687v1)||
