@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.11321v1|[KeyframeFace: From Text to Expressive Facial Keyframes](https://arxiv.org/abs/2512.11321v1)||
 |2512.10918v1|[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)||
 |2512.10882v1|[Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](https://arxiv.org/abs/2512.10882v1)||
 |2512.10741v1|[TRIDENT: A Redundant Architecture for Caribbean-Accented Emergency Speech Triage](https://arxiv.org/abs/2512.10741v1)||
@@ -8,11 +9,13 @@
 |2512.10441v1|[Decoding Student Minds: Leveraging Conversational Agents for Psychological and Learning Analysis](https://arxiv.org/abs/2512.10441v1)||
 |2512.10403v1|[BRACE: A Benchmark for Robust Audio Caption Quality Evaluation](https://arxiv.org/abs/2512.10403v1)||
 |2512.10324v1|[EchoingPixels: Cross-Modal Adaptive Token Reduction for Efficient Audio-Visual LLMs](https://arxiv.org/abs/2512.10324v1)||
+|2512.10257v2|[Reject or Not?: A Benchmark for Voice Assistant Query Rejection in Smart Home Scenario and an Improved Method Based on LLMs](https://arxiv.org/abs/2512.10257v2)||
 |2512.10257v1|[Reject or Not?: A Benchmark for Voice Assistant Query Rejection in Smart Home Scenario and an Improved Method Based on LLMs](https://arxiv.org/abs/2512.10257v1)||
 |2512.10120v1|[VocSim: A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://arxiv.org/abs/2512.10120v1)||
 |2512.09841v1|[ChronusOmni: Improving Time Awareness of Omni Large Language Models](https://arxiv.org/abs/2512.09841v1)||
 |2512.09662v1|[Can LLMs Evaluate What They Cannot Annotate? Revisiting LLM Reliability in Hate Speech Detection](https://arxiv.org/abs/2512.09662v1)||
 |2512.09563v1|[System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/abs/2512.09563v1)||
+|2512.09142v2|[SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation](https://arxiv.org/abs/2512.09142v2)||
 |2512.09142v1|[SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation](https://arxiv.org/abs/2512.09142v1)||
 |2512.07571v1|[A Simple Method to Enhance Pre-trained Language Models with Speech Tokens for Classification](https://arxiv.org/abs/2512.07571v1)||
 |2512.06447v1|[Towards Stable Cross-Domain Depression Recognition under Missing Modalities](https://arxiv.org/abs/2512.06447v1)||
