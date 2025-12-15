@@ -1,5 +1,7 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.11543v1|[All-in-One ASR: Unifying Encoder-Decoder Models of CTC, Attention, and Transducer in Dual-Mode ASR](https://arxiv.org/abs/2512.11543v1)||
+|2512.11231v1|[Robust Detection of Underwater Target Against Non-Uniform Noise With Optical Fiber DAS Array](https://arxiv.org/abs/2512.11231v1)||
 |2512.10778v1|[Building Audio-Visual Digital Twins with Smartphones](https://arxiv.org/abs/2512.10778v1)||
 |2512.10689v1|[Exploring Perceptual Audio Quality Measurement on Stereo Processing Using the Open Dataset of Audio Quality](https://arxiv.org/abs/2512.10689v1)||
 |2512.09786v1|[TinyDéjàVu: Smaller Memory Footprint & Faster Inference on Sensor Data Streams with Always-On Microcontrollers](https://arxiv.org/abs/2512.09786v1)||
