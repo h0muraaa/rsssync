@@ -69,4 +69,3 @@
 |2510.16995v1|[Adaptive Deterministic Flow Matching for Target Speaker Extraction](https://arxiv.org/abs/2510.16995v1)||
 |2510.16834v1|[Schrödinger Bridge Mamba for One-Step Speech Enhancement](https://arxiv.org/abs/2510.16834v1)||
 |2510.16437v1|[Audio-Visual Speech Enhancement for Spatial Audio - Spatial-VisualVoice and the MAVE Database](https://arxiv.org/abs/2510.16437v1)||
-|2510.13747v2|[InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue](https://arxiv.org/abs/2510.13747v2)||
