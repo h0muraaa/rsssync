@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.11241v1|[The Affective Bridge: Unifying Feature Representations for Speech Deepfake Detection](https://arxiv.org/abs/2512.11241v1)||
 |2512.08812v1|[Emovectors: assessing emotional content in jazz improvisations for creativity evaluation](https://arxiv.org/abs/2512.08812v1)||
 |2512.03636v1|[Head, posture, and full-body gestures in interactive communication](https://arxiv.org/abs/2512.03636v1)||
 |2512.03486v1|[A Universal Harmonic Discriminator for High-quality GAN-based Vocoder](https://arxiv.org/abs/2512.03486v1)||
@@ -21,4 +22,3 @@
 |2511.06288v1|[ELEGANCE: Efficient LLM Guidance for Audio-Visual Target Speech Extraction](https://arxiv.org/abs/2511.06288v1)|总结：提出ELEGANCE框架，通过三种语言学指导策略融合LLM知识提升AV-TSE性能，验证其在复杂场景下的有效性，并提供演示页面。<br/><br/>贡献点：<br/>1. 提出ELEGANCE框架，首次将大语言模型的语言知识引入音频-视觉目标说话人提取（AV-TSE）任务。<br/>2. 设计三种创新性引导策略：输出层语言约束、中间层语言预测、输入层对话先验，构建多阶段语言知识融合机制。<br/>3. 在RoBERTa、Qwen3-0.6B和Qwen3-4B等多款LLM上验证框架有效性，证明其模型通用性和知识迁移能力。<br/>4. 在视觉缺失、未知语言、说话人切换等挑战性场景中实现显著性能提升，增强模型鲁棒性。<br/>5. 构建首个基于语言知识的AV-TSE框架Demo，直观展示技术应用效果。|
 |2511.06246v3|[IDMap: A Pseudo-Speaker Generator Framework Based on Speaker Identity Index to Vector Mapping](https://arxiv.org/abs/2511.06246v3)||
 |2511.06246v1|[IDMap: A Pseudo-Speaker Generator Framework Based on Speaker Identity Index to Vector Mapping](https://arxiv.org/abs/2511.06246v1)|**贡献点总结：**  <br/>1. 提出IDMap框架，通过将说话人身份索引映射到说话人向量，解决伪说话人生成的唯一性问题；  <br/>2. 设计两种模型（IDMap-MLP和IDMap-Diff），兼顾生成效率与隐私保护效果；  <br/>3. 在小规模（LibriSpeech）和大规模（MLS、Common Voice）数据集验证框架有效性，证明其在高并发场景下的稳定性；  <br/>4. 提供开源代码和音频样本，支持研究复现与应用。  <br/><br/>（100字以内）  <br/>该论文提出IDMap框架，通过身份索引到说话人向量的映射解决伪说话人生成问题，设计MLP和Diff模型兼顾效率与隐私，验证了其在不同规模数据集中的鲁棒性，并开源实现。|
-|2510.14159v2|[Musical consonance: a review of theory and evidence on perception and preference of auditory roughness in humans and other animals](https://arxiv.org/abs/2510.14159v2)||
