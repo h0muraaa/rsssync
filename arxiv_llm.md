@@ -1,5 +1,11 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.13507v1|[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v1)||
+|2512.12772v1|[JointAVBench: A Benchmark for Joint Audio-Visual Reasoning Evaluation](https://arxiv.org/abs/2512.12772v1)||
+|2512.12769v1|[Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models (ASTA)](https://arxiv.org/abs/2512.12769v1)||
+|2512.12756v1|[FysicsWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning](https://arxiv.org/abs/2512.12756v1)||
+|2512.12537v1|[NagaNLP: Bootstrapping NLP for Low-Resource Nagamese Creole with Human-in-the-Loop Synthetic Data](https://arxiv.org/abs/2512.12537v1)||
+|2512.12240v1|[System X: A Mobile Voice-Based AI System for EMR Generation and Clinical Decision Support in Low-Resource Maternal Healthcare](https://arxiv.org/abs/2512.12240v1)||
 |2512.11321v1|[KeyframeFace: From Text to Expressive Facial Keyframes](https://arxiv.org/abs/2512.11321v1)||
 |2512.10918v1|[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)||
 |2512.10882v1|[Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](https://arxiv.org/abs/2512.10882v1)||
