@@ -47,4 +47,3 @@
 |2510.16893v1|[Investigating Safety Vulnerabilities of Large Audio-Language Models Under Speaker Emotional Variations](https://arxiv.org/abs/2510.16893v1)||
 |2510.16756v1|[End-to-end Listen, Look, Speak and Act](https://arxiv.org/abs/2510.16756v1)||
 |2510.16387v1|[Probing the Hidden Talent of ASR Foundation Models for L2 English Oral Assessment](https://arxiv.org/abs/2510.16387v1)||
-|2510.14922v1|[TRI-DEP: A Trimodal Comparative Study for Depression Detection Using Speech, Text, and EEG](https://arxiv.org/abs/2510.14922v1)||
