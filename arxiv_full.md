@@ -1,5 +1,13 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.13284v1|[SAMAY: System for Acoustic Measurement and Analysis](https://arxiv.org/abs/2512.13284v1)||
+|2512.13251v1|[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v1)||
+|2512.13131v1|[Towards Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning](https://arxiv.org/abs/2512.13131v1)||
+|2512.13012v1|[HQ-MPSD: A Multilingual Artifact-Controlled Benchmark for Partial Deepfake Speech Detection](https://arxiv.org/abs/2512.13012v1)||
+|2512.12875v1|[Schrodinger Audio-Visual Editor: Object-Level Audiovisual Removal](https://arxiv.org/abs/2512.12875v1)||
+|2512.12834v1|[Procedural Music Generation Systems in Games](https://arxiv.org/abs/2512.12834v1)||
+|2512.12471v1|[Privacy-Aware Ambient Audio Sensing for Healthy Indoor Spaces](https://arxiv.org/abs/2512.12471v1)||
+|2512.12129v1|[A comparative study of generative models for child voice conversion](https://arxiv.org/abs/2512.12129v1)||
 |2512.11545v1|[Graph Embedding with Mel-spectrograms for Underwater Acoustic Target Recognition](https://arxiv.org/abs/2512.11545v1)||
 |2512.11457v1|[Processing through encoding: Quantum circuit approaches for point-wise multiplication and convolution](https://arxiv.org/abs/2512.11457v1)||
 |2512.11348v1|[PhraseVAE and PhraseLDM: Latent Diffusion for Full-Song Multitrack Symbolic Music Generation](https://arxiv.org/abs/2512.11348v1)||
@@ -7,6 +15,7 @@
 |2512.11165v1|[Mitigation of multi-path propagation artefacts in acoustic targets with cepstral adaptive filtering](https://arxiv.org/abs/2512.11165v1)||
 |2512.11009v1|[The TCG CREST -- RKMVERI Submission for the NCIIPC Startup India AI Grand Challenge](https://arxiv.org/abs/2512.11009v1)||
 |2512.10375v1|[Neural personal sound zones with flexible bright zone control](https://arxiv.org/abs/2512.10375v1)||
+|2512.10264v2|[MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation](https://arxiv.org/abs/2512.10264v2)||
 |2512.10264v1|[MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation](https://arxiv.org/abs/2512.10264v1)||
 |2512.10170v1|[Semantic-Aware Confidence Calibration for Automated Audio Captioning](https://arxiv.org/abs/2512.10170v1)||
 |2512.09504v1|[DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance](https://arxiv.org/abs/2512.09504v1)||
