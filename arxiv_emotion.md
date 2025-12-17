@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.13998v1|[Memo2496: Expert-Annotated Dataset and Dual-View Adaptive Framework for Music Emotion Recognition](https://arxiv.org/abs/2512.13998v1)||
 |2512.11241v1|[The Affective Bridge: Unifying Feature Representations for Speech Deepfake Detection](https://arxiv.org/abs/2512.11241v1)||
 |2512.08812v1|[Emovectors: assessing emotional content in jazz improvisations for creativity evaluation](https://arxiv.org/abs/2512.08812v1)||
 |2512.03636v1|[Head, posture, and full-body gestures in interactive communication](https://arxiv.org/abs/2512.03636v1)||
