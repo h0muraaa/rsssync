@@ -1,5 +1,10 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.14687v1|[Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization](https://arxiv.org/abs/2512.14687v1)||
+|2512.14652v1|[Segmental Attention Decoding With Long Form Acoustic Encodings](https://arxiv.org/abs/2512.14652v1)||
+|2512.14506v1|[Linguists should learn to love speech-based deep learning models](https://arxiv.org/abs/2512.14506v1)||
+|2512.14259v1|[Investigating the impact of stereo processing -- a study for extending the Open Dataset of Audio Quality (ODAQ)](https://arxiv.org/abs/2512.14259v1)||
+|2512.14083v1|[Scalable Frameworks for Real-World Audio-Visual Speech Recognition](https://arxiv.org/abs/2512.14083v1)||
 |2512.13647v1|[REVERB-FL: Server-Side Adversarial and Reserve-Enhanced Federated Learning for Robust Audio Classification](https://arxiv.org/abs/2512.13647v1)||
 |2512.12851v1|[BUT Systems for WildSpoof Challenge: SASV in the Wild](https://arxiv.org/abs/2512.12851v1)||
 |2512.12196v1|[AutoMV: An Automatic Multi-Agent System for Music Video Generation](https://arxiv.org/abs/2512.12196v1)||
