@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.14657v1|[Adapting Speech Language Model to Singing Voice Synthesis](https://arxiv.org/abs/2512.14657v1)||
 |2512.10382v1|[Investigating training objective for flow matching-based speech enhancement](https://arxiv.org/abs/2512.10382v1)||
 |2512.07226v1|[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v1)||
 |2512.06689v1|[Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation](https://arxiv.org/abs/2512.06689v1)||
@@ -68,4 +69,3 @@
 |2510.16997v1|[Towards Real-Time Generative Speech Restoration with Flow-Matching](https://arxiv.org/abs/2510.16997v1)||
 |2510.16995v1|[Adaptive Deterministic Flow Matching for Target Speaker Extraction](https://arxiv.org/abs/2510.16995v1)||
 |2510.16834v1|[Schrödinger Bridge Mamba for One-Step Speech Enhancement](https://arxiv.org/abs/2510.16834v1)||
-|2510.16437v1|[Audio-Visual Speech Enhancement for Spatial Audio - Spatial-VisualVoice and the MAVE Database](https://arxiv.org/abs/2510.16437v1)||
