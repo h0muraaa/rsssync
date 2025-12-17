@@ -1,5 +1,14 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.14653v1|[Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty](https://arxiv.org/abs/2512.14653v1)||
+|2512.14629v1|[MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation](https://arxiv.org/abs/2512.14629v1)||
+|2512.14602v1|[Sound and Music Biases in Deep Music Transcription Models: A Systematic Analysis](https://arxiv.org/abs/2512.14602v1)||
+|2512.14291v1|[GLM-TTS Technical Report](https://arxiv.org/abs/2512.14291v1)||
+|2512.14115v1|[Joint Multimodal Contrastive Learning for Robust Spoken Term Detection and Keyword Spotting](https://arxiv.org/abs/2512.14115v1)||
+|2512.14085v1|[Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study](https://arxiv.org/abs/2512.14085v1)||
+|2512.13905v1|[Ensemble-Guided Distillation for Compact and Robust Acoustic Scene Classification on Edge Devices](https://arxiv.org/abs/2512.13905v1)||
+|2512.13880v1|[Privacy-Enhancing Infant Cry Classification with Federated Transformers and Denoising Regularization](https://arxiv.org/abs/2512.13880v1)||
+|2512.13744v1|[Toward Noise-Aware Audio Deepfake Detection: Survey, SNR-Benchmarks, and Practical Recipes](https://arxiv.org/abs/2512.13744v1)||
 |2512.13284v1|[SAMAY: System for Acoustic Measurement and Analysis](https://arxiv.org/abs/2512.13284v1)||
 |2512.13251v1|[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v1)||
 |2512.13131v1|[Towards Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning](https://arxiv.org/abs/2512.13131v1)||
@@ -10,6 +19,7 @@
 |2512.12129v1|[A comparative study of generative models for child voice conversion](https://arxiv.org/abs/2512.12129v1)||
 |2512.11545v1|[Graph Embedding with Mel-spectrograms for Underwater Acoustic Target Recognition](https://arxiv.org/abs/2512.11545v1)||
 |2512.11457v1|[Processing through encoding: Quantum circuit approaches for point-wise multiplication and convolution](https://arxiv.org/abs/2512.11457v1)||
+|2512.11348v2|[PhraseVAE and PhraseLDM: Latent Diffusion for Full-Song Multitrack Symbolic Music Generation](https://arxiv.org/abs/2512.11348v2)||
 |2512.11348v1|[PhraseVAE and PhraseLDM: Latent Diffusion for Full-Song Multitrack Symbolic Music Generation](https://arxiv.org/abs/2512.11348v1)||
 |2512.11229v1|[REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation](https://arxiv.org/abs/2512.11229v1)||
 |2512.11165v1|[Mitigation of multi-path propagation artefacts in acoustic targets with cepstral adaptive filtering](https://arxiv.org/abs/2512.11165v1)||
