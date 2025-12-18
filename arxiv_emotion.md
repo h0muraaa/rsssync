@@ -1,5 +1,9 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.15532v1|[A Conditioned UNet for Music Source Separation](https://arxiv.org/abs/2512.15532v1)||
+|2512.15224v1|[On the Use of Self-Supervised Representation Learning for Speaker Diarization and Separation](https://arxiv.org/abs/2512.15224v1)||
+|2512.14961v1|[Adaptive Multimodal Person Recognition: A Robust Framework for Handling Missing Modalities](https://arxiv.org/abs/2512.14961v1)||
+|2512.13998v2|[Memo2496: Expert-Annotated Dataset and Dual-View Adaptive Framework for Music Emotion Recognition](https://arxiv.org/abs/2512.13998v2)||
 |2512.13998v1|[Memo2496: Expert-Annotated Dataset and Dual-View Adaptive Framework for Music Emotion Recognition](https://arxiv.org/abs/2512.13998v1)||
 |2512.11241v1|[The Affective Bridge: Unifying Feature Representations for Speech Deepfake Detection](https://arxiv.org/abs/2512.11241v1)||
 |2512.08812v1|[Emovectors: assessing emotional content in jazz improvisations for creativity evaluation](https://arxiv.org/abs/2512.08812v1)||
