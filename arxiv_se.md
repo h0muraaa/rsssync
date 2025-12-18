@@ -68,4 +68,3 @@
 |2510.18744v1|[Diffusion Buffer for Online Generative Speech Enhancement](https://arxiv.org/abs/2510.18744v1)||
 |2510.16997v1|[Towards Real-Time Generative Speech Restoration with Flow-Matching](https://arxiv.org/abs/2510.16997v1)||
 |2510.16995v1|[Adaptive Deterministic Flow Matching for Target Speaker Extraction](https://arxiv.org/abs/2510.16995v1)||
-|2510.16834v1|[Schrödinger Bridge Mamba for One-Step Speech Enhancement](https://arxiv.org/abs/2510.16834v1)||
