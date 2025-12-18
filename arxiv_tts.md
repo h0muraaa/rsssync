@@ -44,5 +44,3 @@
 |2510.19471v1|[Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition](https://arxiv.org/abs/2510.19471v1)||
 |2510.19414v1|[EchoFake: A Replay-Aware Dataset for Practical Speech Deepfake Detection](https://arxiv.org/abs/2510.19414v1)||
 |2510.18308v1|[ParaStyleTTS: Toward Efficient and Robust Paralinguistic Style Control for Expressive Text-to-Speech Generation](https://arxiv.org/abs/2510.18308v1)||
-|2510.16893v1|[Investigating Safety Vulnerabilities of Large Audio-Language Models Under Speaker Emotional Variations](https://arxiv.org/abs/2510.16893v1)||
-|2510.16756v1|[End-to-end Listen, Look, Speak and Act](https://arxiv.org/abs/2510.16756v1)||
