@@ -1,10 +1,15 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.16250v1|[AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding](https://arxiv.org/abs/2512.16250v1)||
+|2512.15343v1|[Exploring User Acceptance and Concerns toward LLM-powered Conversational Agents in Immersive Extended Reality](https://arxiv.org/abs/2512.15343v1)||
+|2512.15042v1|[DASH: Dialogue-Aware Similarity and Handshake Recognition for Topic Segmentation in Public-Channel Conversations](https://arxiv.org/abs/2512.15042v1)||
 |2512.14179v1|[A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs](https://arxiv.org/abs/2512.14179v1)||
+|2512.14098v2|[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098v2)||
 |2512.14098v1|[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098v1)||
 |2512.13507v2|[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v2)||
 |2512.13507v1|[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v1)||
 |2512.12772v1|[JointAVBench: A Benchmark for Joint Audio-Visual Reasoning Evaluation](https://arxiv.org/abs/2512.12772v1)||
+|2512.12769v2|[Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models](https://arxiv.org/abs/2512.12769v2)||
 |2512.12769v1|[Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models (ASTA)](https://arxiv.org/abs/2512.12769v1)||
 |2512.12756v1|[FysicsWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning](https://arxiv.org/abs/2512.12756v1)||
 |2512.12537v1|[NagaNLP: Bootstrapping NLP for Low-Resource Nagamese Creole with Human-in-the-Loop Synthetic Data](https://arxiv.org/abs/2512.12537v1)||
