@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.16420v1|[DPDFNet: Boosting DeepFilterNet2 via Dual-Path RNN](https://arxiv.org/abs/2512.16420v1)||
 |2512.14657v1|[Adapting Speech Language Model to Singing Voice Synthesis](https://arxiv.org/abs/2512.14657v1)||
 |2512.10382v1|[Investigating training objective for flow matching-based speech enhancement](https://arxiv.org/abs/2512.10382v1)||
 |2512.07226v1|[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v1)||
@@ -66,5 +67,3 @@
 |2510.19439v1|[Relative Transfer Matrix Estimator using Covariance Subtraction](https://arxiv.org/abs/2510.19439v1)||
 |2510.18938v2|[StutterZero and StutterFormer: End-to-End Speech Conversion for Stuttering Transcription and Correction](https://arxiv.org/abs/2510.18938v2)|**贡献点：**  <br/>1. 提出首个端到端波形-波形模型StutterZero和StutterFormer，直接将口吃语音转换为流畅语音并联合预测转录，突破传统分阶段ASR-TTS流程的局限性。  <br/>2. 设计两种创新架构：StutterZero采用卷积-BiLSTM编码器-解码器与注意力机制，StutterFormer引入双流Transformer实现音素与语义的共享表示。  <br/>3. 在SEP-28K和LibriStutter数据合成的训练集上验证模型，首次在FluencyBank未见说话者数据上评估，体现泛化能力。  <br/>4. 实验结果显著优于基准模型（Whisper-Medium）：StutterZero WER降低24%，BERTScore提升31%；StutterFormer进一步优化至WER降28%，BERTScore升34%。  <br/>5. 验证端到端口吃-流畅语音转换的可行性，为无障碍AI、言语治疗及包容性人机交互提供新方法。  <br/><br/>**总结（100字以内）：**  <br/>该论文首次提出端到端波形-波形模型StutterZero和StutterFormer，直接转换口吃语音为流畅语音并同步预测转录，显著优于传统方法，在WER和语义相似度指标上取得突破，为无障碍AI与言语治疗提供新方向。|
 |2510.18744v1|[Diffusion Buffer for Online Generative Speech Enhancement](https://arxiv.org/abs/2510.18744v1)||
-|2510.16997v1|[Towards Real-Time Generative Speech Restoration with Flow-Matching](https://arxiv.org/abs/2510.16997v1)||
-|2510.16995v1|[Adaptive Deterministic Flow Matching for Target Speaker Extraction](https://arxiv.org/abs/2510.16995v1)||
