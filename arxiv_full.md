@@ -1,5 +1,13 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.16304v1|[CogSR: Semantic-Aware Speech Super-Resolution via Chain-of-Thought Guided Flow Matching](https://arxiv.org/abs/2512.16304v1)||
+|2512.16271v1|[Domain-Agnostic Causal-Aware Audio Transformer for Infant Cry Classification](https://arxiv.org/abs/2512.16271v1)||
+|2512.15830v1|[From Minutes to Days: Scaling Intracranial Speech Decoding with Supervised Pretraining](https://arxiv.org/abs/2512.15830v1)||
+|2512.15313v1|[Time-Varying Audio Effect Modeling by End-to-End Adversarial Training](https://arxiv.org/abs/2512.15313v1)||
+|2512.15229v1|[O-EENC-SD: Efficient Online End-to-End Neural Clustering for Speaker Diarization](https://arxiv.org/abs/2512.15229v1)||
+|2512.15180v1|[BEAT2AASIST model with layer fusion for ESDD 2026 Challenge](https://arxiv.org/abs/2512.15180v1)||
+|2512.15124v1|[Synaspot: A Lightweight, Streaming Multi-modal Framework for Keyword Spotting with Audio-Text Synergy](https://arxiv.org/abs/2512.15124v1)||
+|2512.14865v1|[Audio MultiChallenge: A Multi-Turn Evaluation of Spoken Dialogue Systems on Natural Human Interaction](https://arxiv.org/abs/2512.14865v1)||
 |2512.14653v1|[Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty](https://arxiv.org/abs/2512.14653v1)||
 |2512.14629v1|[MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation](https://arxiv.org/abs/2512.14629v1)||
 |2512.14602v1|[Sound and Music Biases in Deep Music Transcription Models: A Systematic Analysis](https://arxiv.org/abs/2512.14602v1)||
@@ -10,6 +18,7 @@
 |2512.13880v1|[Privacy-Enhancing Infant Cry Classification with Federated Transformers and Denoising Regularization](https://arxiv.org/abs/2512.13880v1)||
 |2512.13744v1|[Toward Noise-Aware Audio Deepfake Detection: Survey, SNR-Benchmarks, and Practical Recipes](https://arxiv.org/abs/2512.13744v1)||
 |2512.13284v1|[SAMAY: System for Acoustic Measurement and Analysis](https://arxiv.org/abs/2512.13284v1)||
+|2512.13251v2|[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v2)||
 |2512.13251v1|[DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec](https://arxiv.org/abs/2512.13251v1)||
 |2512.13131v1|[Towards Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning](https://arxiv.org/abs/2512.13131v1)||
 |2512.13012v1|[HQ-MPSD: A Multilingual Artifact-Controlled Benchmark for Partial Deepfake Speech Detection](https://arxiv.org/abs/2512.13012v1)||
@@ -151,4 +160,3 @@
 |2511.05171v2|[Model Merging Improves Zero-Shot Generalization in Bioacoustic Foundation Models](https://arxiv.org/abs/2511.05171v2)|总结（100字以内）:  <br/>本文提出通过模型合并策略提升NatureLM的指令跟随灵活性，同时保持生物声学领域知识，并在零样本分类任务中实现超过200%的相对性能提升，创闭集零样本分类新纪录。<br/><br/>贡献点:  <br/>1. **提出模型融合策略**：通过插值融合NatureLM与其基础语言模型，解决单模型在多任务指令下的性能退化问题。  <br/>2. **恢复指令跟随能力**：有效提升模型对复合指令（如同时请求通用名和科学名）的适应性，减少准确率下降。  <br/>3. **增强零样本泛化**：在未见物种的闭集零样本分类任务中实现显著性能提升（>200%相对改进），推动生物声学模型的通用性。  <br/>4. **验证效果与效率**：实验表明该策略仅需微小计算开销即可恢复关键能力，且在基准测试中达到新SOTA水平。|
 |2511.00279v2|[LongCat-Flash-Omni Technical Report](https://arxiv.org/abs/2511.00279v2)||
 |2510.21004v2|[Can Current Detectors Catch Face-to-Voice Deepfake Attacks?](https://arxiv.org/abs/2510.21004v2)|总结：  <br/>本研究系统评估了FOICE生成语音的检测效果，提出针对性微调策略并分析其泛化能力，揭示现有检测技术的不足，推动下一代音频深度伪造检测方法的发展。<br/><br/>贡献点：  <br/>1. **首次系统评估**：对FOICE生成语音的检测能力进行全面评估，证实主流检测器在清洁与噪声环境下均难以有效识别。  <br/>2. **针对性微调策略**：设计捕捉FOICE特有特征的微调方法，显著提升检测准确率。  <br/>3. **泛化能力分析**：研究微调后检测器对未知合成工具的适应性，发现专精FOICE与保持鲁棒性的平衡问题。|
-|2510.17474v2|[Not All Deepfakes Are Created Equal: Triaging Audio Forgeries for Robust Deepfake Singer Identification](https://arxiv.org/abs/2510.17474v2)|总结：  <br/>本文提出两阶段系统，通过判别模型过滤低质量伪造并结合真实录音训练模型提升识别准确率，有效应对高仿真歌唱声音深度伪造的挑战。<br/><br/>贡献点：  <br/>1. 提出针对高仿真歌唱声音深度伪造的双阶段识别框架，分层处理伪造质量与歌手身份识别问题。  <br/>2. 首次引入判别模型作为第一阶段过滤器，精准剔除低质量无法还原语音特征的伪造内容。  <br/>3. 第二阶段模型专为真实录音训练，增强对高质量深度伪造和真实语音的歌手识别能力。  <br/>4. 实验证明系统在真实及合成内容上均优于现有基线方法，验证了方法的鲁棒性和有效性。|
