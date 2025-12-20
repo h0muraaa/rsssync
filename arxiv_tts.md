@@ -43,4 +43,3 @@
 |2510.20860v1|[Data-Centric Lessons To Improve Speech-Language Pretraining](https://arxiv.org/abs/2510.20860v1)||
 |2510.19471v1|[Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition](https://arxiv.org/abs/2510.19471v1)||
 |2510.19414v1|[EchoFake: A Replay-Aware Dataset for Practical Speech Deepfake Detection](https://arxiv.org/abs/2510.19414v1)||
-|2510.18308v1|[ParaStyleTTS: Toward Efficient and Robust Paralinguistic Style Control for Expressive Text-to-Speech Generation](https://arxiv.org/abs/2510.18308v1)||
