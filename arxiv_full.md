@@ -1,5 +1,9 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.17740v1|[When Pamplona sounds different: the soundscape transformation of San Fermin through intelligent acoustic sensors and a sound repository](https://arxiv.org/abs/2512.17740v1)||
+|2512.17356v1|[Training Text-to-Speech Model with Purely Synthetic Data: Feasibility, Sensitivity, and Generalization Capability](https://arxiv.org/abs/2512.17356v1)||
+|2512.17293v1|[Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track](https://arxiv.org/abs/2512.17293v1)||
+|2512.17281v1|[LibriVAD: A Scalable Open Dataset with Deep Learning Benchmarks for Voice Activity Detection](https://arxiv.org/abs/2512.17281v1)||
 |2512.16304v1|[CogSR: Semantic-Aware Speech Super-Resolution via Chain-of-Thought Guided Flow Matching](https://arxiv.org/abs/2512.16304v1)||
 |2512.16271v1|[Domain-Agnostic Causal-Aware Audio Transformer for Infant Cry Classification](https://arxiv.org/abs/2512.16271v1)||
 |2512.15830v1|[From Minutes to Days: Scaling Intracranial Speech Decoding with Supervised Pretraining](https://arxiv.org/abs/2512.15830v1)||
