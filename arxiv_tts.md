@@ -40,4 +40,3 @@
 |2510.22961v1|[Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition](https://arxiv.org/abs/2510.22961v1)||
 |2510.22588v1|[UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models](https://arxiv.org/abs/2510.22588v1)||
 |2510.21014v2|[ReFESS-QI: Reference-Free Evaluation For Speech Separation With Joint Quality And Intelligibility Scoring](https://arxiv.org/abs/2510.21014v2)||
-|2510.20860v1|[Data-Centric Lessons To Improve Speech-Language Pretraining](https://arxiv.org/abs/2510.20860v1)||
