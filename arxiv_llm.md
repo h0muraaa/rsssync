@@ -1,5 +1,8 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.17367v1|[Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach](https://arxiv.org/abs/2512.17367v1)||
+|2512.17247v1|[Incorporating Error Level Noise Embedding for Improving LLM-Assisted Robustness in Persian Speech Recognition](https://arxiv.org/abs/2512.17247v1)||
+|2512.17183v1|[Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots](https://arxiv.org/abs/2512.17183v1)||
 |2512.16250v1|[AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding](https://arxiv.org/abs/2512.16250v1)||
 |2512.15343v1|[Exploring User Acceptance and Concerns toward LLM-powered Conversational Agents in Immersive Extended Reality](https://arxiv.org/abs/2512.15343v1)||
 |2512.15042v1|[DASH: Dialogue-Aware Similarity and Handshake Recognition for Topic Segmentation in Public-Channel Conversations](https://arxiv.org/abs/2512.15042v1)||
@@ -16,6 +19,7 @@
 |2512.12240v1|[System X: A Mobile Voice-Based AI System for EMR Generation and Clinical Decision Support in Low-Resource Maternal Healthcare](https://arxiv.org/abs/2512.12240v1)||
 |2512.11321v1|[KeyframeFace: From Text to Expressive Facial Keyframes](https://arxiv.org/abs/2512.11321v1)||
 |2512.10918v1|[CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](https://arxiv.org/abs/2512.10918v1)||
+|2512.10882v2|[Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](https://arxiv.org/abs/2512.10882v2)||
 |2512.10882v1|[Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](https://arxiv.org/abs/2512.10882v1)||
 |2512.10741v1|[TRIDENT: A Redundant Architecture for Caribbean-Accented Emergency Speech Triage](https://arxiv.org/abs/2512.10741v1)||
 |2512.10652v1|[TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection](https://arxiv.org/abs/2512.10652v1)||
