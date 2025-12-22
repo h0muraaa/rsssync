@@ -1,5 +1,10 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.17708v1|[Review of MEMS Speakers for Audio Applications](https://arxiv.org/abs/2512.17708v1)||
+|2512.17562v1|[When De-noising Hurts: A Systematic Study of Speech Enhancement Effects on Modern Medical ASR Systems](https://arxiv.org/abs/2512.17562v1)||
+|2512.17474v1|[Zero-Shot Recognition of Dysarthric Speech Using Commercial Automatic Speech Recognition and Multimodal Large Language Models](https://arxiv.org/abs/2512.17474v1)||
+|2512.17209v1|[Do Foundational Audio Encoders Understand Music Structure?](https://arxiv.org/abs/2512.17209v1)||
+|2512.17154v1|[InstructDubber: Instruction-based Alignment for Zero-shot Movie Dubbing](https://arxiv.org/abs/2512.17154v1)||
 |2512.16519v1|[Pseudo-Cepstrum: Pitch Modification for Mel-Based Neural Vocoders](https://arxiv.org/abs/2512.16519v1)||
 |2512.16518v1|[Poster: Recognizing Hidden-in-the-Ear Private Key for Reliable Silent Speech Interface Using Multi-Task Learning](https://arxiv.org/abs/2512.16518v1)||
 |2512.16395v1|[BEST-STD2.0: Balanced and Efficient Speech Tokenizer for Spoken Term Detection](https://arxiv.org/abs/2512.16395v1)||
