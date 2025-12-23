@@ -1,5 +1,13 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.19612v1|[MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery](https://arxiv.org/abs/2512.19612v1)||
+|2512.19090v1|[JoyVoice: Long-Context Conditioning for Anthropomorphic Multi-Speaker Conversational Synthesis](https://arxiv.org/abs/2512.19090v1)||
+|2512.18967v1|[Enhancing Fully Formatted End-to-End Speech Recognition with Knowledge Distillation via Multi-Codebook Vector Quantization](https://arxiv.org/abs/2512.18967v1)||
+|2512.18572v1|[MeanFlow-TSE: One-Step Generative Target Speaker Extraction with Mean Flow](https://arxiv.org/abs/2512.18572v1)||
+|2512.18371v1|[Phoneme-based speech recognition driven by large language models and sampling marginalization](https://arxiv.org/abs/2512.18371v1)||
+|2512.18286v1|[What Does the Speaker Embedding Encode?](https://arxiv.org/abs/2512.18286v1)||
+|2512.18263v1|[TICL+: A Case Study On Speech In-Context Learning for Children's Speech Recognition](https://arxiv.org/abs/2512.18263v1)||
+|2512.18099v1|[SAM Audio: Segment Anything in Audio](https://arxiv.org/abs/2512.18099v1)||
 |2512.17708v1|[Review of MEMS Speakers for Audio Applications](https://arxiv.org/abs/2512.17708v1)||
 |2512.17562v1|[When De-noising Hurts: A Systematic Study of Speech Enhancement Effects on Modern Medical ASR Systems](https://arxiv.org/abs/2512.17562v1)||
 |2512.17474v1|[Zero-Shot Recognition of Dysarthric Speech Using Commercial Automatic Speech Recognition and Multimodal Large Language Models](https://arxiv.org/abs/2512.17474v1)||
