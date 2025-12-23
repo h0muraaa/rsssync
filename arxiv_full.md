@@ -1,5 +1,16 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.19687v1|[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)||
+|2512.19374v1|[DeepGESI: A Non-Intrusive Objective Evaluation Model for Predicting Speech Intelligibility in Hearing-Impaired Listeners](https://arxiv.org/abs/2512.19374v1)||
+|2512.19272v1|[Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling](https://arxiv.org/abs/2512.19272v1)||
+|2512.18902v1|[Speaker Recognition -- Wavelet Packet Based Multiresolution Feature Extraction Approach](https://arxiv.org/abs/2512.18902v1)||
+|2512.18804v1|[Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation](https://arxiv.org/abs/2512.18804v1)||
+|2512.18797v1|[Reliable Audio Deepfake Detection in Variable Conditions via Quantum-Kernel SVMs](https://arxiv.org/abs/2512.18797v1)||
+|2512.18791v1|[Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform](https://arxiv.org/abs/2512.18791v1)||
+|2512.18232v1|[AutoSchA: Automatic Hierarchical Music Representations via Multi-Relational Node Isolation](https://arxiv.org/abs/2512.18232v1)||
+|2512.18210v1|[A Data-Centric Approach to Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2512.18210v1)||
+|2512.18162v1|[Influence of string register locations on vibratos among violoncellists](https://arxiv.org/abs/2512.18162v1)||
+|2512.17978v1|[MEGState: Phoneme Decoding from Magnetoencephalography Signals](https://arxiv.org/abs/2512.17978v1)||
 |2512.17740v1|[When Pamplona sounds different: the soundscape transformation of San Fermin through intelligent acoustic sensors and a sound repository](https://arxiv.org/abs/2512.17740v1)||
 |2512.17356v1|[Training Text-to-Speech Model with Purely Synthetic Data: Feasibility, Sensitivity, and Generalization Capability](https://arxiv.org/abs/2512.17356v1)||
 |2512.17293v1|[Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track](https://arxiv.org/abs/2512.17293v1)||
@@ -163,4 +174,3 @@
 |2511.05817v2|[TalkSketch: Multimodal Generative AI for Real-time Sketch Ideation with Speech](https://arxiv.org/abs/2511.05817v2)|贡献点：<br/>1. 识别文本提示对设计师创意流的阻碍，提出多模态交互需求  <br/>2. 开发TalkSketch系统，融合手绘与实时语音输入的创新设计  <br/>3. 构建上下文感知的AI响应机制，实现动态交互支持  <br/>4. 重构GenAI工具定位，强调其在设计过程中的参与价值  <br/><br/>总结：TalkSketch通过多模态交互提升设计创意流程，解决文本提示局限性，展示GenAI在设计过程中的深度参与潜力。|
 |2511.05171v2|[Model Merging Improves Zero-Shot Generalization in Bioacoustic Foundation Models](https://arxiv.org/abs/2511.05171v2)|总结（100字以内）:  <br/>本文提出通过模型合并策略提升NatureLM的指令跟随灵活性，同时保持生物声学领域知识，并在零样本分类任务中实现超过200%的相对性能提升，创闭集零样本分类新纪录。<br/><br/>贡献点:  <br/>1. **提出模型融合策略**：通过插值融合NatureLM与其基础语言模型，解决单模型在多任务指令下的性能退化问题。  <br/>2. **恢复指令跟随能力**：有效提升模型对复合指令（如同时请求通用名和科学名）的适应性，减少准确率下降。  <br/>3. **增强零样本泛化**：在未见物种的闭集零样本分类任务中实现显著性能提升（>200%相对改进），推动生物声学模型的通用性。  <br/>4. **验证效果与效率**：实验表明该策略仅需微小计算开销即可恢复关键能力，且在基准测试中达到新SOTA水平。|
 |2511.00279v2|[LongCat-Flash-Omni Technical Report](https://arxiv.org/abs/2511.00279v2)||
-|2510.21004v2|[Can Current Detectors Catch Face-to-Voice Deepfake Attacks?](https://arxiv.org/abs/2510.21004v2)|总结：  <br/>本研究系统评估了FOICE生成语音的检测效果，提出针对性微调策略并分析其泛化能力，揭示现有检测技术的不足，推动下一代音频深度伪造检测方法的发展。<br/><br/>贡献点：  <br/>1. **首次系统评估**：对FOICE生成语音的检测能力进行全面评估，证实主流检测器在清洁与噪声环境下均难以有效识别。  <br/>2. **针对性微调策略**：设计捕捉FOICE特有特征的微调方法，显著提升检测准确率。  <br/>3. **泛化能力分析**：研究微调后检测器对未知合成工具的适应性，发现专精FOICE与保持鲁棒性的平衡问题。|
