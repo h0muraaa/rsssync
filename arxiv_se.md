@@ -1,5 +1,6 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.19442v1|[Real-Time Streamable Generative Speech Restoration with Flow Matching](https://arxiv.org/abs/2512.19442v1)||
 |2512.16420v1|[DPDFNet: Boosting DeepFilterNet2 via Dual-Path RNN](https://arxiv.org/abs/2512.16420v1)||
 |2512.14657v1|[Adapting Speech Language Model to Singing Voice Synthesis](https://arxiv.org/abs/2512.14657v1)||
 |2512.10382v1|[Investigating training objective for flow matching-based speech enhancement](https://arxiv.org/abs/2512.10382v1)||
@@ -62,4 +63,3 @@
 |2510.23312v2|[Low-Resource Audio Codec (LRAC): 2025 Challenge Description](https://arxiv.org/abs/2510.23312v2)||
 |2510.23141v1|[Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement](https://arxiv.org/abs/2510.23141v1)||
 |2510.22637v1|[HyBeam: Hybrid Microphone-Beamforming Array-Agnostic Speech Enhancement for Wearables](https://arxiv.org/abs/2510.22637v1)||
-|2510.21485v1|[FlexIO: Flexible Single- and Multi-Channel Speech Separation and Enhancement](https://arxiv.org/abs/2510.21485v1)||
