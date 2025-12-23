@@ -1,5 +1,9 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.18706v1|[X-Talk: On the Underestimated Potential of Modular Speech-to-Speech Dialogue System](https://arxiv.org/abs/2512.18706v1)||
+|2512.18699v1|[Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/abs/2512.18699v1)||
+|2512.18298v1|[Explainable Transformer-CNN Fusion for Noise-Robust Speech Emotion Recognition](https://arxiv.org/abs/2512.18298v1)||
+|2512.17946v1|[Let the Model Learn to Feel: Mode-Guided Tonality Injection for Symbolic Music Emotion Recognition](https://arxiv.org/abs/2512.17946v1)||
 |2512.15532v1|[A Conditioned UNet for Music Source Separation](https://arxiv.org/abs/2512.15532v1)||
 |2512.15224v1|[On the Use of Self-Supervised Representation Learning for Speaker Diarization and Separation](https://arxiv.org/abs/2512.15224v1)||
 |2512.14961v1|[Adaptive Multimodal Person Recognition: A Robust Framework for Handling Missing Modalities](https://arxiv.org/abs/2512.14961v1)||
