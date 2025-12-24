@@ -1,5 +1,15 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.20369v1|[EnvSSLAM-FFN: Lightweight Layer-Fused System for ESDD 2026 Challenge](https://arxiv.org/abs/2512.20369v1)||
+|2512.20314v1|[LP-CFM: Perceptual Invariance-Aware Conditional Flow Matching for Speech Modeling](https://arxiv.org/abs/2512.20314v1)||
+|2512.20308v1|[SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision](https://arxiv.org/abs/2512.20308v1)||
+|2512.20296v1|[TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation](https://arxiv.org/abs/2512.20296v1)||
+|2512.20211v1|[Aliasing-Free Neural Audio Synthesis](https://arxiv.org/abs/2512.20211v1)||
+|2512.20165v1|[Spectral or spatial? Leveraging both for speaker extraction in challenging data conditions](https://arxiv.org/abs/2512.20165v1)||
+|2512.20156v1|[Fun-Audio-Chat Technical Report](https://arxiv.org/abs/2512.20156v1)||
+|2512.20151v1|[QuarkAudio Technical Report](https://arxiv.org/abs/2512.20151v1)||
+|2512.20122v1|[SpatialNet with Binaural Loss Function for Correcting Binaural Signal Matching Outputs under Head Rotations](https://arxiv.org/abs/2512.20122v1)||
+|2512.20117v1|[DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation](https://arxiv.org/abs/2512.20117v1)||
 |2512.19612v1|[MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery](https://arxiv.org/abs/2512.19612v1)||
 |2512.19090v1|[JoyVoice: Long-Context Conditioning for Anthropomorphic Multi-Speaker Conversational Synthesis](https://arxiv.org/abs/2512.19090v1)||
 |2512.18967v1|[Enhancing Fully Formatted End-to-End Speech Recognition with Knowledge Distillation via Multi-Codebook Vector Quantization](https://arxiv.org/abs/2512.18967v1)||
@@ -41,6 +51,7 @@
 |2512.08319v1|[BUT Systems for Environmental Sound Deepfake Detection in the ESDD 2026 Challenge](https://arxiv.org/abs/2512.08319v1)||
 |2512.08313v1|[An Adaptive Method for Target Curve Selection](https://arxiv.org/abs/2512.08313v1)||
 |2512.08006v1|[Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS](https://arxiv.org/abs/2512.08006v1)||
+|2512.07226v2|[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v2)||
 |2512.06380v2|[Protecting Bystander Privacy via Selective Hearing in Audio LLMs](https://arxiv.org/abs/2512.06380v2)||
 |2512.04964v1|[HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages](https://arxiv.org/abs/2512.04964v1)||
 |2512.04945v1|[TripleC Learning and Lightweight Speech Enhancement for Multi-Condition Target Speech Extraction](https://arxiv.org/abs/2512.04945v1)||
