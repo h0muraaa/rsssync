@@ -1,5 +1,7 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.20407v1|[AUDRON: A Deep Learning Framework with Fused Acoustic Signatures for Drone Type Recognition](https://arxiv.org/abs/2512.20407v1)||
+|2512.20339v1|[MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model](https://arxiv.org/abs/2512.20339v1)||
 |2512.19687v1|[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)||
 |2512.19374v1|[DeepGESI: A Non-Intrusive Objective Evaluation Model for Predicting Speech Intelligibility in Hearing-Impaired Listeners](https://arxiv.org/abs/2512.19374v1)||
 |2512.19272v1|[Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling](https://arxiv.org/abs/2512.19272v1)||
