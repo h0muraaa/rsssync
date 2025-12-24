@@ -1,5 +1,8 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.20204v1|[Corpus of Cross-lingual Dialogues with Minutes and Detection of Misunderstandings](https://arxiv.org/abs/2512.20204v1)||
+|2512.20136v1|[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v1)||
+|2512.20032v1|[VALLR-Pin: Dual-Decoding Visual Speech Recognition for Mandarin with Pinyin-Guided LLM Refinement](https://arxiv.org/abs/2512.20032v1)||
 |2512.18772v1|[In-Context Audio Control of Video Diffusion Transformers](https://arxiv.org/abs/2512.18772v1)||
 |2512.17367v1|[Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach](https://arxiv.org/abs/2512.17367v1)||
 |2512.17247v1|[Incorporating Error Level Noise Embedding for Improving LLM-Assisted Robustness in Persian Speech Recognition](https://arxiv.org/abs/2512.17247v1)||
@@ -10,6 +13,7 @@
 |2512.14179v1|[A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs](https://arxiv.org/abs/2512.14179v1)||
 |2512.14098v2|[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098v2)||
 |2512.14098v1|[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098v1)||
+|2512.13507v3|[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v3)||
 |2512.13507v2|[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v2)||
 |2512.13507v1|[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v1)||
 |2512.12772v1|[JointAVBench: A Benchmark for Joint Audio-Visual Reasoning Evaluation](https://arxiv.org/abs/2512.12772v1)||
@@ -23,6 +27,7 @@
 |2512.10882v2|[Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](https://arxiv.org/abs/2512.10882v2)||
 |2512.10882v1|[Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](https://arxiv.org/abs/2512.10882v1)||
 |2512.10741v1|[TRIDENT: A Redundant Architecture for Caribbean-Accented Emergency Speech Triage](https://arxiv.org/abs/2512.10741v1)||
+|2512.10652v2|[TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection](https://arxiv.org/abs/2512.10652v2)||
 |2512.10652v1|[TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection](https://arxiv.org/abs/2512.10652v1)||
 |2512.10624v1|[AgriGPT-Omni: A Unified Speech-Vision-Text Framework for Multilingual Agricultural Intelligence](https://arxiv.org/abs/2512.10624v1)||
 |2512.10441v1|[Decoding Student Minds: Leveraging Conversational Agents for Psychological and Learning Analysis](https://arxiv.org/abs/2512.10441v1)||
