@@ -62,4 +62,3 @@
 |2510.24821v2|[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](https://arxiv.org/abs/2510.24821v2)||
 |2510.23312v2|[Low-Resource Audio Codec (LRAC): 2025 Challenge Description](https://arxiv.org/abs/2510.23312v2)||
 |2510.23141v1|[Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement](https://arxiv.org/abs/2510.23141v1)||
-|2510.22637v1|[HyBeam: Hybrid Microphone-Beamforming Array-Agnostic Speech Enhancement for Wearables](https://arxiv.org/abs/2510.22637v1)||
