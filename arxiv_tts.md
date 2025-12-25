@@ -38,4 +38,3 @@
 |2510.23541v2|[SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity](https://arxiv.org/abs/2510.23541v2)||
 |2510.23056v2|[Enabling American Sign Language Communication Under Low Data Rates](https://arxiv.org/abs/2510.23056v2)|总结（100字以内）：  <br/>本文提出VC4ASL系统，通过音频传输人体姿态信息重建手语内容，使ASL用户在低带宽下实现无障碍通信，无需修改现有视频会议平台，并设计了基于姿态结构的接收端纠错机制。<br/><br/>贡献点：  <br/>1. **跨平台兼容性**：开发无需修改现有视频会议应用的ASL音频通信系统（VC4ASL），适应低带宽场景。  <br/>2. **姿态编码传输**：创新性地通过音频通道编码和传输人体姿态信息，实现手语内容的音频重建。  <br/>3. **接收端纠错机制**：提出利用手语姿态数据固有结构约束的误差检测与校正方法，提升通信鲁棒性。  <br/>4. **系统验证**：设计网络退化模拟与用户研究实验，验证系统在低带宽下的可理解性与实用性。|
 |2510.22961v1|[Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition](https://arxiv.org/abs/2510.22961v1)||
-|2510.22588v1|[UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models](https://arxiv.org/abs/2510.22588v1)||
