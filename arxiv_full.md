@@ -1,15 +1,19 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.21324v1|[Towards Practical Automatic Piano Reduction using BERT with Semi-supervised Learning](https://arxiv.org/abs/2512.21324v1)||
+|2512.20944v1|[SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs](https://arxiv.org/abs/2512.20944v1)||
 |2512.20407v1|[AUDRON: A Deep Learning Framework with Fused Acoustic Signatures for Drone Type Recognition](https://arxiv.org/abs/2512.20407v1)||
 |2512.20339v1|[MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model](https://arxiv.org/abs/2512.20339v1)||
 |2512.19687v1|[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)||
 |2512.19374v1|[DeepGESI: A Non-Intrusive Objective Evaluation Model for Predicting Speech Intelligibility in Hearing-Impaired Listeners](https://arxiv.org/abs/2512.19374v1)||
 |2512.19272v1|[Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling](https://arxiv.org/abs/2512.19272v1)||
+|2512.18902v2|[Speaker Recognition -- Wavelet Packet Based Multiresolution Feature Extraction Approach](https://arxiv.org/abs/2512.18902v2)||
 |2512.18902v1|[Speaker Recognition -- Wavelet Packet Based Multiresolution Feature Extraction Approach](https://arxiv.org/abs/2512.18902v1)||
 |2512.18804v1|[Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation](https://arxiv.org/abs/2512.18804v1)||
 |2512.18797v1|[Reliable Audio Deepfake Detection in Variable Conditions via Quantum-Kernel SVMs](https://arxiv.org/abs/2512.18797v1)||
 |2512.18791v1|[Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform](https://arxiv.org/abs/2512.18791v1)||
 |2512.18232v1|[AutoSchA: Automatic Hierarchical Music Representations via Multi-Relational Node Isolation](https://arxiv.org/abs/2512.18232v1)||
+|2512.18210v2|[A Data-Centric Approach to Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2512.18210v2)||
 |2512.18210v1|[A Data-Centric Approach to Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2512.18210v1)||
 |2512.18162v1|[Influence of string register locations on vibratos among violoncellists](https://arxiv.org/abs/2512.18162v1)||
 |2512.17978v1|[MEGState: Phoneme Decoding from Magnetoencephalography Signals](https://arxiv.org/abs/2512.17978v1)||
