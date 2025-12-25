@@ -1,6 +1,9 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.20948v1|[Foundation Model-based Evaluation of Neuropsychiatric Disorders: A Lifespan-Inclusive, Multi-Modal, and Multi-Lingual Study](https://arxiv.org/abs/2512.20948v1)||
+|2512.20938v1|[Pioneering Multimodal Emotion Recognition in the Era of Large Models: From Closed Sets to Open Vocabularies](https://arxiv.org/abs/2512.20938v1)||
 |2512.20204v1|[Corpus of Cross-lingual Dialogues with Minutes and Detection of Misunderstandings](https://arxiv.org/abs/2512.20204v1)||
+|2512.20136v2|[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v2)||
 |2512.20136v1|[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v1)||
 |2512.20032v1|[VALLR-Pin: Dual-Decoding Visual Speech Recognition for Mandarin with Pinyin-Guided LLM Refinement](https://arxiv.org/abs/2512.20032v1)||
 |2512.18772v1|[In-Context Audio Control of Video Diffusion Transformers](https://arxiv.org/abs/2512.18772v1)||
