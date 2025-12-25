@@ -1,5 +1,7 @@
 |Source|Title|Summary|
 |---|---|---|
+|2512.21215v1|[USE: A Unified Model for Universal Sound Separation and Extraction](https://arxiv.org/abs/2512.21215v1)||
+|2512.20978v1|[GenTSE: Enhancing Target Speaker Extraction via a Coarse-to-Fine Generative Language Model](https://arxiv.org/abs/2512.20978v1)||
 |2512.20369v1|[EnvSSLAM-FFN: Lightweight Layer-Fused System for ESDD 2026 Challenge](https://arxiv.org/abs/2512.20369v1)||
 |2512.20314v1|[LP-CFM: Perceptual Invariance-Aware Conditional Flow Matching for Speech Modeling](https://arxiv.org/abs/2512.20314v1)||
 |2512.20308v1|[SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision](https://arxiv.org/abs/2512.20308v1)||
@@ -26,6 +28,7 @@
 |2512.16519v1|[Pseudo-Cepstrum: Pitch Modification for Mel-Based Neural Vocoders](https://arxiv.org/abs/2512.16519v1)||
 |2512.16518v1|[Poster: Recognizing Hidden-in-the-Ear Private Key for Reliable Silent Speech Interface Using Multi-Task Learning](https://arxiv.org/abs/2512.16518v1)||
 |2512.16395v1|[BEST-STD2.0: Balanced and Efficient Speech Tokenizer for Spoken Term Detection](https://arxiv.org/abs/2512.16395v1)||
+|2512.16378v2|[Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs](https://arxiv.org/abs/2512.16378v2)||
 |2512.16378v1|[Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs](https://arxiv.org/abs/2512.16378v1)||
 |2512.16318v1|[Learning Recursive Attenuation Filters Under Noisy Conditions](https://arxiv.org/abs/2512.16318v1)||
 |2512.14938v1|[TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation](https://arxiv.org/abs/2512.14938v1)||
@@ -83,6 +86,7 @@
 |2511.21222v1|[Evaluation of an ITD-to-ILD Transformation as a Method to Restore the Spatial Benefit in Speech Intelligibility in Hearing Impaired Listeners](https://arxiv.org/abs/2511.21222v1)||
 |2511.20974v1|[RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data](https://arxiv.org/abs/2511.20974v1)||
 |2511.20973v1|[Towards Audio Token Compression in Large Audio Language Models](https://arxiv.org/abs/2511.20973v1)||
+|2511.20972v2|[SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications](https://arxiv.org/abs/2511.20972v2)||
 |2511.20972v1|[SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications](https://arxiv.org/abs/2511.20972v1)||
 |2511.20697v1|[Musical Score Understanding Benchmark: Evaluating Large Language Models' Comprehension of Complete Musical Scores](https://arxiv.org/abs/2511.20697v1)||
 |2511.20224v1|[DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation](https://arxiv.org/abs/2511.20224v1)||
