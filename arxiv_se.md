@@ -60,5 +60,3 @@
 |2510.26372v1|[UniTok-Audio: A Unified Audio Generation Framework via Generative Modeling on Discrete Codec Tokens](https://arxiv.org/abs/2510.26372v1)||
 |2510.26299v1|[Modeling strategies for speech enhancement in the latent space of a neural audio codec](https://arxiv.org/abs/2510.26299v1)||
 |2510.24821v2|[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](https://arxiv.org/abs/2510.24821v2)||
-|2510.23312v2|[Low-Resource Audio Codec (LRAC): 2025 Challenge Description](https://arxiv.org/abs/2510.23312v2)||
-|2510.23141v1|[Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement](https://arxiv.org/abs/2510.23141v1)||
