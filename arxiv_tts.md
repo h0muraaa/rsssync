@@ -29,9 +29,5 @@
 |2511.01310v2|[From Pixels to Cooperation Multi Agent Reinforcement Learning based on Multimodal World Models](https://arxiv.org/abs/2511.01310v2)|**贡献点总结（分点）：**  <br/>1. **提出共享生成多模态世界模型（MWM）**：通过可扩展注意力机制融合多智能体多模态观测，学习压缩环境动态的潜变量表示。  <br/>2. **解耦表示与策略学习**：利用MWM作为快速模拟器，在其潜空间内训练协作策略，提升样本效率。  <br/>3. **引入挑战性多模态多智能体基准**：基于3D物理模拟器构建新基准，推动领域发展。  <br/>4. **显著提升样本效率**：实验显示，相比模型无关MARL基线，样本效率提升数量级。  <br/>5. **强调多模态融合的关键性**：证明其在感官不对称环境中的任务成功作用，及对传感器丢包的鲁棒性优势。  <br/><br/>**总结（100字内）：**  <br/>本文提出MWM-MARL框架，通过多模态融合与共享世界模型解耦表示与策略学习，显著提升协作MARL的样本效率，验证多模态融合对复杂环境的鲁棒性与任务关键性，为实际部署提供新方案。|
 |2511.01261v1|[Speech-DRAME: A Framework for Human-Aligned Benchmarks in Speech Role-Play](https://arxiv.org/abs/2511.01261v1)||
 |2510.26190v1|[SP-MCQA: Evaluating Intelligibility of TTS Beyond the Word Level](https://arxiv.org/abs/2510.26190v1)||
-|2510.25178v1|[SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution](https://arxiv.org/abs/2510.25178v1)||
 |2510.25054v2|[Evaluating Emotion Recognition in Spoken Language Models on Emotionally Incongruent Speech](https://arxiv.org/abs/2510.25054v2)||
 |2510.24992v1|[POWSM: A Phonetic Open Whisper-Style Speech Foundation Model](https://arxiv.org/abs/2510.24992v1)||
-|2510.24372v1|[Bayesian Speech synthesizers Can Learn from Multiple Teachers](https://arxiv.org/abs/2510.24372v1)||
-|2510.23969v1|[emg2speech: synthesizing speech from electromyography using self-supervised speech models](https://arxiv.org/abs/2510.23969v1)||
-|2510.23541v2|[SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity](https://arxiv.org/abs/2510.23541v2)||
